@@ -1,0 +1,3681 @@
+Año,Enfermedad,Casos,Delegacion
+2000,Sifilis,20973,Aguascalientes
+2000,Sifilis,47963,Baja California
+2000,Sifilis,3752,Baja California Sur
+2000,Sifilis,9313,Campeche
+2000,Sifilis,59060,Coahuila
+2000,Sifilis,18791,Colima
+2000,Sifilis,15164,Chiapas
+2000,Sifilis,107046,Chihuahua
+2000,Sifilis,182618,Distrito Federal
+2000,Sifilis,28688,Durango
+2000,Sifilis,58669,Guanajuato
+2000,Sifilis,20138,Guerrero
+2000,Sifilis,10292,Hidalgo
+2000,Sifilis,100842,Jalisco
+2000,Sifilis,137772,México
+2000,Sifilis,28655,Michoacán
+2000,Sifilis,17633,Morelos
+2000,Sifilis,9576,Nayarit
+2000,Sifilis,111346,Nuevo León
+2000,Sifilis,30893,Oaxaca
+2000,Sifilis,40849,Puebla
+2000,Sifilis,31905,Querétaro
+2000,Sifilis,24644,Quintana Roo
+2000,Sifilis,23294,San Luis Potosí
+2000,Sifilis,39226,Sinaloa
+2000,Sifilis,38432,Sonora
+2000,Sifilis,7678,Tabasco
+2000,Sifilis,58755,Tamaulipas
+2000,Sifilis,14342,Tlaxcala
+2000,Sifilis,101690,Veracruz
+2000,Sifilis,22247,Yucatán
+2000,Sifilis,21210,Zacatecas
+2001,Sifilis,19812,Aguascalientes
+2001,Sifilis,42791,Baja California
+2001,Sifilis,3637,Baja California Sur
+2001,Sifilis,10836,Campeche
+2001,Sifilis,59902,Coahuila
+2001,Sifilis,18575,Colima
+2001,Sifilis,12140,Chiapas
+2001,Sifilis,104960,Chihuahua
+2001,Sifilis,180823,Distrito Federal
+2001,Sifilis,32525,Durango
+2001,Sifilis,52671,Guanajuato
+2001,Sifilis,18609,Guerrero
+2001,Sifilis,16253,Hidalgo
+2001,Sifilis,97023,Jalisco
+2001,Sifilis,137010,México
+2001,Sifilis,24588,Michoacán
+2001,Sifilis,16065,Morelos
+2001,Sifilis,7232,Nayarit
+2001,Sifilis,97268,Nuevo León
+2001,Sifilis,26806,Oaxaca
+2001,Sifilis,40244,Puebla
+2001,Sifilis,27905,Querétaro
+2001,Sifilis,19108,Quintana Roo
+2001,Sifilis,23515,San Luis Potosí
+2001,Sifilis,37427,Sinaloa
+2001,Sifilis,43041,Sonora
+2001,Sifilis,5955,Tabasco
+2001,Sifilis,55075,Tamaulipas
+2001,Sifilis,14731,Tlaxcala
+2001,Sifilis,93279,Veracruz
+2001,Sifilis,18919,Yucatán
+2001,Sifilis,18761,Zacatecas
+2002,Sifilis,24526,Aguascalientes
+2002,Sifilis,40249,Baja California
+2002,Sifilis,4029,Baja California Sur
+2002,Sifilis,8545,Campeche
+2002,Sifilis,47464,Coahuila
+2002,Sifilis,14695,Colima
+2002,Sifilis,14905,Chiapas
+2002,Sifilis,77485,Chihuahua
+2002,Sifilis,164137,Distrito Federal
+2002,Sifilis,25097,Durango
+2002,Sifilis,51450,Guanajuato
+2002,Sifilis,15172,Guerrero
+2002,Sifilis,8136,Hidalgo
+2002,Sifilis,75036,Jalisco
+2002,Sifilis,110007,México
+2002,Sifilis,21654,Michoacán
+2002,Sifilis,13209,Morelos
+2002,Sifilis,6211,Nayarit
+2002,Sifilis,84221,Nuevo León
+2002,Sifilis,23907,Oaxaca
+2002,Sifilis,29694,Puebla
+2002,Sifilis,29174,Querétaro
+2002,Sifilis,18811,Quintana Roo
+2002,Sifilis,22107,San Luis Potosí
+2002,Sifilis,35380,Sinaloa
+2002,Sifilis,30306,Sonora
+2002,Sifilis,8568,Tabasco
+2002,Sifilis,50024,Tamaulipas
+2002,Sifilis,11124,Tlaxcala
+2002,Sifilis,69721,Veracruz
+2002,Sifilis,16902,Yucatán
+2002,Sifilis,18667,Zacatecas
+2003,Sifilis,20183,Aguascalientes
+2003,Sifilis,36061,Baja California
+2003,Sifilis,3687,Baja California Sur
+2003,Sifilis,7896,Campeche
+2003,Sifilis,47665,Coahuila
+2003,Sifilis,11368,Colima
+2003,Sifilis,17406,Chiapas
+2003,Sifilis,76886,Chihuahua
+2003,Sifilis,121978,Distrito Federal
+2003,Sifilis,24167,Durango
+2003,Sifilis,46620,Guanajuato
+2003,Sifilis,17658,Guerrero
+2003,Sifilis,7825,Hidalgo
+2003,Sifilis,60601,Jalisco
+2003,Sifilis,116445,México
+2003,Sifilis,22573,Michoacán
+2003,Sifilis,14889,Morelos
+2003,Sifilis,5373,Nayarit
+2003,Sifilis,99209,Nuevo León
+2003,Sifilis,18463,Oaxaca
+2003,Sifilis,25420,Puebla
+2003,Sifilis,32746,Querétaro
+2003,Sifilis,22768,Quintana Roo
+2003,Sifilis,21688,San Luis Potosí
+2003,Sifilis,36892,Sinaloa
+2003,Sifilis,28563,Sonora
+2003,Sifilis,7402,Tabasco
+2003,Sifilis,43839,Tamaulipas
+2003,Sifilis,9055,Tlaxcala
+2003,Sifilis,65746,Veracruz
+2003,Sifilis,19001,Yucatán
+2003,Sifilis,13589,Zacatecas
+2004,Sifilis,1713,Aguascalientes
+2004,Sifilis,3956,Baja California
+2004,Sifilis,2302,Baja California Sur
+2004,Sifilis,2283,Campeche
+2004,Sifilis,5782,Coahuila
+2004,Sifilis,1532,Colima
+2004,Sifilis,679,Chiapas
+2004,Sifilis,3593,Chihuahua
+2004,Sifilis,7259,Distrito Federal
+2004,Sifilis,5707,Durango
+2004,Sifilis,5347,Guanajuato
+2004,Sifilis,1482,Guerrero
+2004,Sifilis,1293,Hidalgo
+2004,Sifilis,13566,Jalisco
+2004,Sifilis,17768,México
+2004,Sifilis,3756,Michoacán
+2004,Sifilis,1408,Morelos
+2004,Sifilis,986,Nayarit
+2004,Sifilis,9701,Nuevo León
+2004,Sifilis,2036,Oaxaca
+2004,Sifilis,8465,Puebla
+2004,Sifilis,7177,Querétaro
+2004,Sifilis,3237,Quintana Roo
+2004,Sifilis,2567,San Luis Potosí
+2004,Sifilis,5453,Sinaloa
+2004,Sifilis,4758,Sonora
+2004,Sifilis,714,Tabasco
+2004,Sifilis,9565,Tamaulipas
+2004,Sifilis,883,Tlaxcala
+2004,Sifilis,11828,Veracruz
+2004,Sifilis,6822,Yucatán
+2004,Sifilis,2338,Zacatecas
+2005,Sifilis,1792,Aguascalientes
+2005,Sifilis,6547,Baja California
+2005,Sifilis,1997,Baja California Sur
+2005,Sifilis,2193,Campeche
+2005,Sifilis,5538,Coahuila
+2005,Sifilis,605,Colima
+2005,Sifilis,203,Chiapas
+2005,Sifilis,7614,Chihuahua
+2005,Sifilis,5321,Distrito Federal
+2005,Sifilis,1399,Durango
+2005,Sifilis,8035,Guanajuato
+2005,Sifilis,3882,Guerrero
+2005,Sifilis,689,Hidalgo
+2005,Sifilis,10579,Jalisco
+2005,Sifilis,15458,México
+2005,Sifilis,12200,Michoacán
+2005,Sifilis,357,Morelos
+2005,Sifilis,1328,Nayarit
+2005,Sifilis,4785,Nuevo León
+2005,Sifilis,785,Oaxaca
+2005,Sifilis,6529,Puebla
+2005,Sifilis,8286,Querétaro
+2005,Sifilis,2840,Quintana Roo
+2005,Sifilis,2739,San Luis Potosí
+2005,Sifilis,2799,Sinaloa
+2005,Sifilis,3238,Sonora
+2005,Sifilis,963,Tabasco
+2005,Sifilis,5602,Tamaulipas
+2005,Sifilis,397,Tlaxcala
+2005,Sifilis,14501,Veracruz
+2005,Sifilis,7325,Yucatán
+2005,Sifilis,1313,Zacatecas
+2006,Sifilis,2174,Aguascalientes
+2006,Sifilis,11232,Baja California
+2006,Sifilis,3016,Baja California Sur
+2006,Sifilis,4851,Campeche
+2006,Sifilis,24975,Coahuila
+2006,Sifilis,3292,Colima
+2006,Sifilis,3305,Chiapas
+2006,Sifilis,22235,Chihuahua
+2006,Sifilis,26391,Distrito Federal
+2006,Sifilis,2649,Durango
+2006,Sifilis,15679,Guanajuato
+2006,Sifilis,10249,Guerrero
+2006,Sifilis,4972,Hidalgo
+2006,Sifilis,25470,Jalisco
+2006,Sifilis,34982,México
+2006,Sifilis,18074,Michoacán
+2006,Sifilis,3193,Morelos
+2006,Sifilis,9694,Nayarit
+2006,Sifilis,33849,Nuevo León
+2006,Sifilis,2793,Oaxaca
+2006,Sifilis,8568,Puebla
+2006,Sifilis,33568,Querétaro
+2006,Sifilis,4270,Quintana Roo
+2006,Sifilis,5020,San Luis Potosí
+2006,Sifilis,15768,Sinaloa
+2006,Sifilis,3613,Sonora
+2006,Sifilis,5449,Tabasco
+2006,Sifilis,18746,Tamaulipas
+2006,Sifilis,3362,Tlaxcala
+2006,Sifilis,16451,Veracruz
+2006,Sifilis,9550,Yucatán
+2006,Sifilis,1542,Zacatecas
+2007,Sifilis,105,Aguascalientes
+2007,Sifilis,119,Baja California
+2007,Sifilis,7,Baja California Sur
+2007,Sifilis,2,Campeche
+2007,Sifilis,820,Coahuila
+2007,Sifilis,600,Colima
+2007,Sifilis,57,Chiapas
+2007,Sifilis,1296,Chihuahua
+2007,Sifilis,308,Distrito Federal
+2007,Sifilis,69,Durango
+2007,Sifilis,233,Guanajuato
+2007,Sifilis,105,Guerrero
+2007,Sifilis,26,Hidalgo
+2007,Sifilis,2532,Jalisco
+2007,Sifilis,1971,México
+2007,Sifilis,298,Michoacán
+2007,Sifilis,3196,Morelos
+2007,Sifilis,1308,Nayarit
+2007,Sifilis,2086,Nuevo León
+2007,Sifilis,280,Oaxaca
+2007,Sifilis,1224,Puebla
+2007,Sifilis,1450,Querétaro
+2007,Sifilis,912,Quintana Roo
+2007,Sifilis,108,San Luis Potosí
+2007,Sifilis,192,Sinaloa
+2007,Sifilis,291,Sonora
+2007,Sifilis,587,Tabasco
+2007,Sifilis,634,Tamaulipas
+2007,Sifilis,300,Tlaxcala
+2007,Sifilis,3618,Veracruz
+2007,Sifilis,482,Yucatán
+2007,Sifilis,107,Zacatecas
+2008,Sifilis,1523,Aguascalientes
+2008,Sifilis,252,Baja California
+2008,Sifilis,165,Baja California Sur
+2008,Sifilis,0,Campeche
+2008,Sifilis,4248,Coahuila
+2008,Sifilis,3234,Colima
+2008,Sifilis,3,Chiapas
+2008,Sifilis,1283,Chihuahua
+2008,Sifilis,2051,Distrito Federal
+2008,Sifilis,527,Durango
+2008,Sifilis,2838,Guanajuato
+2008,Sifilis,157,Guerrero
+2008,Sifilis,230,Hidalgo
+2008,Sifilis,6797,Jalisco
+2008,Sifilis,4007,México
+2008,Sifilis,4196,Michoacán
+2008,Sifilis,1216,Morelos
+2008,Sifilis,1262,Nayarit
+2008,Sifilis,5941,Nuevo León
+2008,Sifilis,664,Oaxaca
+2008,Sifilis,8919,Puebla
+2008,Sifilis,2619,Querétaro
+2008,Sifilis,528,Quintana Roo
+2008,Sifilis,94,San Luis Potosí
+2008,Sifilis,222,Sinaloa
+2008,Sifilis,418,Sonora
+2008,Sifilis,227,Tabasco
+2008,Sifilis,5926,Tamaulipas
+2008,Sifilis,501,Tlaxcala
+2008,Sifilis,8671,Veracruz
+2008,Sifilis,34,Yucatán
+2008,Sifilis,1184,Zacatecas
+2009,Sifilis,2071,Aguascalientes
+2009,Sifilis,765,Baja California
+2009,Sifilis,216,Baja California Sur
+2009,Sifilis,0,Campeche
+2009,Sifilis,3885,Coahuila
+2009,Sifilis,4327,Colima
+2009,Sifilis,20,Chiapas
+2009,Sifilis,544,Chihuahua
+2009,Sifilis,2751,Distrito Federal
+2009,Sifilis,407,Durango
+2009,Sifilis,4784,Guanajuato
+2009,Sifilis,303,Guerrero
+2009,Sifilis,313,Hidalgo
+2009,Sifilis,6437,Jalisco
+2009,Sifilis,5181,México
+2009,Sifilis,1360,Michoacán
+2009,Sifilis,884,Morelos
+2009,Sifilis,1510,Nayarit
+2009,Sifilis,13005,Nuevo León
+2009,Sifilis,525,Oaxaca
+2009,Sifilis,9830,Puebla
+2009,Sifilis,2000,Querétaro
+2009,Sifilis,766,Quintana Roo
+2009,Sifilis,29,San Luis Potosí
+2009,Sifilis,338,Sinaloa
+2009,Sifilis,534,Sonora
+2009,Sifilis,348,Tabasco
+2009,Sifilis,7099,Tamaulipas
+2009,Sifilis,115,Tlaxcala
+2009,Sifilis,13191,Veracruz
+2009,Sifilis,32,Yucatán
+2009,Sifilis,771,Zacatecas
+2010,Sifilis,1737,Aguascalientes
+2010,Sifilis,1335,Baja California
+2010,Sifilis,1431,Baja California Sur
+2010,Sifilis,12,Campeche
+2010,Sifilis,5115,Coahuila
+2010,Sifilis,3848,Colima
+2010,Sifilis,11,Chiapas
+2010,Sifilis,743,Chihuahua
+2010,Sifilis,2962,Distrito Federal
+2010,Sifilis,314,Durango
+2010,Sifilis,5208,Guanajuato
+2010,Sifilis,171,Guerrero
+2010,Sifilis,1132,Hidalgo
+2010,Sifilis,6648,Jalisco
+2010,Sifilis,6738,México
+2010,Sifilis,2671,Michoacán
+2010,Sifilis,566,Morelos
+2010,Sifilis,3206,Nayarit
+2010,Sifilis,8989,Nuevo León
+2010,Sifilis,1043,Oaxaca
+2010,Sifilis,7904,Puebla
+2010,Sifilis,609,Querétaro
+2010,Sifilis,425,Quintana Roo
+2010,Sifilis,42,San Luis Potosí
+2010,Sifilis,163,Sinaloa
+2010,Sifilis,570,Sonora
+2010,Sifilis,520,Tabasco
+2010,Sifilis,5605,Tamaulipas
+2010,Sifilis,55,Tlaxcala
+2010,Sifilis,12093,Veracruz
+2010,Sifilis,23,Yucatán
+2010,Sifilis,769,Zacatecas
+2011,Sifilis,1783,Aguascalientes
+2011,Sifilis,1456,Baja California
+2011,Sifilis,915,Baja California Sur
+2011,Sifilis,184,Campeche
+2011,Sifilis,4757,Coahuila
+2011,Sifilis,3218,Colima
+2011,Sifilis,19,Chiapas
+2011,Sifilis,425,Chihuahua
+2011,Sifilis,3059,Distrito Federal
+2011,Sifilis,371,Durango
+2011,Sifilis,2565,Guanajuato
+2011,Sifilis,255,Guerrero
+2011,Sifilis,1506,Hidalgo
+2011,Sifilis,6935,Jalisco
+2011,Sifilis,4819,México
+2011,Sifilis,2304,Michoacán
+2011,Sifilis,41,Morelos
+2011,Sifilis,3684,Nayarit
+2011,Sifilis,8521,Nuevo León
+2011,Sifilis,1599,Oaxaca
+2011,Sifilis,7713,Puebla
+2011,Sifilis,652,Querétaro
+2011,Sifilis,465,Quintana Roo
+2011,Sifilis,283,San Luis Potosí
+2011,Sifilis,115,Sinaloa
+2011,Sifilis,430,Sonora
+2011,Sifilis,325,Tabasco
+2011,Sifilis,5321,Tamaulipas
+2011,Sifilis,94,Tlaxcala
+2011,Sifilis,9033,Veracruz
+2011,Sifilis,22,Yucatán
+2011,Sifilis,2084,Zacatecas
+2012,Sifilis,1110,Aguascalientes
+2012,Sifilis,1159,Baja California
+2012,Sifilis,1596,Baja California Sur
+2012,Sifilis,556,Campeche
+2012,Sifilis,4799,Coahuila
+2012,Sifilis,651,Colima
+2012,Sifilis,1,Chiapas
+2012,Sifilis,369,Chihuahua
+2012,Sifilis,4738,Distrito Federal
+2012,Sifilis,38,Durango
+2012,Sifilis,1232,Guanajuato
+2012,Sifilis,357,Guerrero
+2012,Sifilis,1452,Hidalgo
+2012,Sifilis,4718,Jalisco
+2012,Sifilis,4918,México
+2012,Sifilis,861,Michoacán
+2012,Sifilis,50,Morelos
+2012,Sifilis,4710,Nayarit
+2012,Sifilis,12064,Nuevo León
+2012,Sifilis,1018,Oaxaca
+2012,Sifilis,9424,Puebla
+2012,Sifilis,300,Querétaro
+2012,Sifilis,8,Quintana Roo
+2012,Sifilis,652,San Luis Potosí
+2012,Sifilis,197,Sinaloa
+2012,Sifilis,363,Sonora
+2012,Sifilis,3279,Tabasco
+2012,Sifilis,5282,Tamaulipas
+2012,Sifilis,92,Tlaxcala
+2012,Sifilis,6446,Veracruz
+2012,Sifilis,263,Yucatán
+2012,Sifilis,52,Zacatecas
+2013,Sifilis,1431,Aguascalientes
+2013,Sifilis,1213,Baja California
+2013,Sifilis,1538,Baja California Sur
+2013,Sifilis,964,Campeche
+2013,Sifilis,4597,Coahuila
+2013,Sifilis,1050,Colima
+2013,Sifilis,9,Chiapas
+2013,Sifilis,569,Chihuahua
+2013,Sifilis,5430,Distrito Federal
+2013,Sifilis,28,Durango
+2013,Sifilis,1381,Guanajuato
+2013,Sifilis,322,Guerrero
+2013,Sifilis,834,Hidalgo
+2013,Sifilis,4264,Jalisco
+2013,Sifilis,5050,México
+2013,Sifilis,543,Michoacán
+2013,Sifilis,50,Morelos
+2013,Sifilis,4971,Nayarit
+2013,Sifilis,15103,Nuevo León
+2013,Sifilis,877,Oaxaca
+2013,Sifilis,8015,Puebla
+2013,Sifilis,48,Querétaro
+2013,Sifilis,1,Quintana Roo
+2013,Sifilis,680,San Luis Potosí
+2013,Sifilis,981,Sinaloa
+2013,Sifilis,195,Sonora
+2013,Sifilis,8063,Tabasco
+2013,Sifilis,5248,Tamaulipas
+2013,Sifilis,58,Tlaxcala
+2013,Sifilis,7309,Veracruz
+2013,Sifilis,20,Yucatán
+2013,Sifilis,103,Zacatecas
+2014,Sifilis,2534,Aguascalientes
+2014,Sifilis,1063,Baja California
+2014,Sifilis,1182,Baja California Sur
+2014,Sifilis,1000,Campeche
+2014,Sifilis,3274,Coahuila
+2014,Sifilis,1123,Colima
+2014,Sifilis,69,Chiapas
+2014,Sifilis,1456,Chihuahua
+2014,Sifilis,4179,Distrito Federal
+2014,Sifilis,165,Durango
+2014,Sifilis,905,Guanajuato
+2014,Sifilis,384,Guerrero
+2014,Sifilis,1767,Hidalgo
+2014,Sifilis,4924,Jalisco
+2014,Sifilis,3868,México
+2014,Sifilis,439,Michoacán
+2014,Sifilis,97,Morelos
+2014,Sifilis,4377,Nayarit
+2014,Sifilis,11507,Nuevo León
+2014,Sifilis,1219,Oaxaca
+2014,Sifilis,5577,Puebla
+2014,Sifilis,36,Querétaro
+2014,Sifilis,2,Quintana Roo
+2014,Sifilis,1180,San Luis Potosí
+2014,Sifilis,617,Sinaloa
+2014,Sifilis,184,Sonora
+2014,Sifilis,6245,Tabasco
+2014,Sifilis,3902,Tamaulipas
+2014,Sifilis,332,Tlaxcala
+2014,Sifilis,6425,Veracruz
+2014,Sifilis,43,Yucatán
+2014,Sifilis,103,Zacatecas
+2015,Sifilis,2759,Aguascalientes
+2015,Sifilis,826,Baja California
+2015,Sifilis,732,Baja California Sur
+2015,Sifilis,1077,Campeche
+2015,Sifilis,3511,Coahuila
+2015,Sifilis,1457,Colima
+2015,Sifilis,110,Chiapas
+2015,Sifilis,479,Chihuahua
+2015,Sifilis,3709,Distrito Federal
+2015,Sifilis,100,Durango
+2015,Sifilis,545,Guanajuato
+2015,Sifilis,300,Guerrero
+2015,Sifilis,1122,Hidalgo
+2015,Sifilis,3291,Jalisco
+2015,Sifilis,4212,México
+2015,Sifilis,420,Michoacán
+2015,Sifilis,31,Morelos
+2015,Sifilis,2973,Nayarit
+2015,Sifilis,13356,Nuevo León
+2015,Sifilis,1155,Oaxaca
+2015,Sifilis,6438,Puebla
+2015,Sifilis,74,Querétaro
+2015,Sifilis,3,Quintana Roo
+2015,Sifilis,1478,San Luis Potosí
+2015,Sifilis,1255,Sinaloa
+2015,Sifilis,2220,Sonora
+2015,Sifilis,5270,Tabasco
+2015,Sifilis,2468,Tamaulipas
+2015,Sifilis,234,Tlaxcala
+2015,Sifilis,6174,Veracruz
+2015,Sifilis,65,Yucatán
+2015,Sifilis,141,Zacatecas
+2016,Sifilis,2805,Aguascalientes
+2016,Sifilis,969,Baja California
+2016,Sifilis,890,Baja California Sur
+2016,Sifilis,1944,Campeche
+2016,Sifilis,3601,Coahuila
+2016,Sifilis,1305,Colima
+2016,Sifilis,56,Chiapas
+2016,Sifilis,231,Chihuahua
+2016,Sifilis,2621,Distrito Federal
+2016,Sifilis,309,Durango
+2016,Sifilis,2723,Guanajuato
+2016,Sifilis,45,Guerrero
+2016,Sifilis,685,Hidalgo
+2016,Sifilis,2549,Jalisco
+2016,Sifilis,3042,México
+2016,Sifilis,341,Michoacán
+2016,Sifilis,14,Morelos
+2016,Sifilis,1994,Nayarit
+2016,Sifilis,11197,Nuevo León
+2016,Sifilis,872,Oaxaca
+2016,Sifilis,5166,Puebla
+2016,Sifilis,60,Querétaro
+2016,Sifilis,7,Quintana Roo
+2016,Sifilis,1000,San Luis Potosí
+2016,Sifilis,1337,Sinaloa
+2016,Sifilis,2617,Sonora
+2016,Sifilis,4681,Tabasco
+2016,Sifilis,2199,Tamaulipas
+2016,Sifilis,144,Tlaxcala
+2016,Sifilis,3969,Veracruz
+2016,Sifilis,141,Yucatán
+2016,Sifilis,76,Zacatecas
+2017,Sifilis,1133,Aguascalientes
+2017,Sifilis,844,Baja California
+2017,Sifilis,514,Baja California Sur
+2017,Sifilis,1035,Campeche
+2017,Sifilis,3424,Coahuila
+2017,Sifilis,72,Colima
+2017,Sifilis,411,Chiapas
+2017,Sifilis,97,Chihuahua
+2017,Sifilis,2169,Distrito Federal
+2017,Sifilis,142,Durango
+2017,Sifilis,5228,Guanajuato
+2017,Sifilis,13,Guerrero
+2017,Sifilis,240,Hidalgo
+2017,Sifilis,2103,Jalisco
+2017,Sifilis,2041,México
+2017,Sifilis,348,Michoacán
+2017,Sifilis,3,Morelos
+2017,Sifilis,1001,Nayarit
+2017,Sifilis,12074,Nuevo León
+2017,Sifilis,467,Oaxaca
+2017,Sifilis,4056,Puebla
+2017,Sifilis,86,Querétaro
+2017,Sifilis,4,Quintana Roo
+2017,Sifilis,1054,San Luis Potosí
+2017,Sifilis,275,Sinaloa
+2017,Sifilis,2913,Sonora
+2017,Sifilis,2704,Tabasco
+2017,Sifilis,1887,Tamaulipas
+2017,Sifilis,143,Tlaxcala
+2017,Sifilis,2690,Veracruz
+2017,Sifilis,152,Yucatán
+2017,Sifilis,95,Zacatecas
+2018,Sifilis,628,Aguascalientes
+2018,Sifilis,1127,Baja California
+2018,Sifilis,277,Baja California Sur
+2018,Sifilis,343,Campeche
+2018,Sifilis,2717,Coahuila
+2018,Sifilis,425,Colima
+2018,Sifilis,196,Chiapas
+2018,Sifilis,112,Chihuahua
+2018,Sifilis,1154,Distrito Federal
+2018,Sifilis,96,Durango
+2018,Sifilis,3731,Guanajuato
+2018,Sifilis,12,Guerrero
+2018,Sifilis,231,Hidalgo
+2018,Sifilis,1921,Jalisco
+2018,Sifilis,1667,México
+2018,Sifilis,290,Michoacán
+2018,Sifilis,6,Morelos
+2018,Sifilis,423,Nayarit
+2018,Sifilis,9845,Nuevo León
+2018,Sifilis,143,Oaxaca
+2018,Sifilis,3459,Puebla
+2018,Sifilis,39,Querétaro
+2018,Sifilis,8,Quintana Roo
+2018,Sifilis,1231,San Luis Potosí
+2018,Sifilis,42,Sinaloa
+2018,Sifilis,3132,Sonora
+2018,Sifilis,1789,Tabasco
+2018,Sifilis,1480,Tamaulipas
+2018,Sifilis,90,Tlaxcala
+2018,Sifilis,2872,Veracruz
+2018,Sifilis,84,Yucatán
+2018,Sifilis,37,Zacatecas
+2019,Sifilis,814,Aguascalientes
+2019,Sifilis,662,Baja California
+2019,Sifilis,94,Baja California Sur
+2019,Sifilis,398,Campeche
+2019,Sifilis,2411,Coahuila
+2019,Sifilis,455,Colima
+2019,Sifilis,13,Chiapas
+2019,Sifilis,86,Chihuahua
+2019,Sifilis,745,Distrito Federal
+2019,Sifilis,149,Durango
+2019,Sifilis,1354,Guanajuato
+2019,Sifilis,9,Guerrero
+2019,Sifilis,182,Hidalgo
+2019,Sifilis,1725,Jalisco
+2019,Sifilis,1319,México
+2019,Sifilis,261,Michoacán
+2019,Sifilis,2,Morelos
+2019,Sifilis,419,Nayarit
+2019,Sifilis,5896,Nuevo León
+2019,Sifilis,60,Oaxaca
+2019,Sifilis,4836,Puebla
+2019,Sifilis,9,Querétaro
+2019,Sifilis,11,Quintana Roo
+2019,Sifilis,110,San Luis Potosí
+2019,Sifilis,184,Sinaloa
+2019,Sifilis,2126,Sonora
+2019,Sifilis,1420,Tabasco
+2019,Sifilis,1453,Tamaulipas
+2019,Sifilis,41,Tlaxcala
+2019,Sifilis,2473,Veracruz
+2019,Sifilis,27,Yucatán
+2019,Sifilis,12,Zacatecas
+2020,Sifilis,443,Aguascalientes
+2020,Sifilis,290,Baja California
+2020,Sifilis,111,Baja California Sur
+2020,Sifilis,543,Campeche
+2020,Sifilis,438,Coahuila
+2020,Sifilis,134,Colima
+2020,Sifilis,8,Chiapas
+2020,Sifilis,368,Chihuahua
+2020,Sifilis,282,Distrito Federal
+2020,Sifilis,256,Durango
+2020,Sifilis,635,Guanajuato
+2020,Sifilis,6,Guerrero
+2020,Sifilis,177,Hidalgo
+2020,Sifilis,1591,Jalisco
+2020,Sifilis,970,México
+2020,Sifilis,166,Michoacán
+2020,Sifilis,118,Morelos
+2020,Sifilis,354,Nayarit
+2020,Sifilis,3770,Nuevo León
+2020,Sifilis,110,Oaxaca
+2020,Sifilis,4452,Puebla
+2020,Sifilis,1,Querétaro
+2020,Sifilis,49,Quintana Roo
+2020,Sifilis,71,San Luis Potosí
+2020,Sifilis,38,Sinaloa
+2020,Sifilis,1331,Sonora
+2020,Sifilis,588,Tabasco
+2020,Sifilis,600,Tamaulipas
+2020,Sifilis,122,Tlaxcala
+2020,Sifilis,1144,Veracruz
+2020,Sifilis,84,Yucatán
+2020,Sifilis,3,Zacatecas
+2021,Sifilis,1826,Aguascalientes
+2021,Sifilis,5164,Baja California
+2021,Sifilis,1145,Baja California Sur
+2021,Sifilis,1514,Campeche
+2021,Sifilis,6853,Coahuila
+2021,Sifilis,537,Colima
+2021,Sifilis,2577,Chiapas
+2021,Sifilis,2718,Chihuahua
+2021,Sifilis,2519,Distrito Federal
+2021,Sifilis,2006,Durango
+2021,Sifilis,5839,Guanajuato
+2021,Sifilis,362,Guerrero
+2021,Sifilis,3017,Hidalgo
+2021,Sifilis,8442,Jalisco
+2021,Sifilis,8220,México
+2021,Sifilis,2165,Michoacán
+2021,Sifilis,2889,Morelos
+2021,Sifilis,1663,Nayarit
+2021,Sifilis,6996,Nuevo León
+2021,Sifilis,2952,Oaxaca
+2021,Sifilis,4378,Puebla
+2021,Sifilis,2633,Querétaro
+2021,Sifilis,6502,Quintana Roo
+2021,Sifilis,3512,San Luis Potosí
+2021,Sifilis,2863,Sinaloa
+2021,Sifilis,4050,Sonora
+2021,Sifilis,1036,Tabasco
+2021,Sifilis,8910,Tamaulipas
+2021,Sifilis,1407,Tlaxcala
+2021,Sifilis,5959,Veracruz
+2021,Sifilis,3148,Yucatán
+2021,Sifilis,417,Zacatecas
+2022,Sifilis,2230,Aguascalientes
+2022,Sifilis,7044,Baja California
+2022,Sifilis,3393,Baja California Sur
+2022,Sifilis,1610,Campeche
+2022,Sifilis,8824,Coahuila
+2022,Sifilis,754,Colima
+2022,Sifilis,3473,Chiapas
+2022,Sifilis,3425,Chihuahua
+2022,Sifilis,12030,Distrito Federal
+2022,Sifilis,332,Durango
+2022,Sifilis,3332,Guanajuato
+2022,Sifilis,10931,Guerrero
+2022,Sifilis,14007,Hidalgo
+2022,Sifilis,3302,Jalisco
+2022,Sifilis,4960,México
+2022,Sifilis,2347,Michoacán
+2022,Sifilis,10231,Morelos
+2022,Sifilis,3814,Nayarit
+2022,Sifilis,5920,Nuevo León
+2022,Sifilis,4638,Oaxaca
+2022,Sifilis,6350,Puebla
+2022,Sifilis,5710,Querétaro
+2022,Sifilis,4596,Quintana Roo
+2022,Sifilis,4957,San Luis Potosí
+2022,Sifilis,1631,Sinaloa
+2022,Sifilis,8534,Sonora
+2022,Sifilis,1583,Tabasco
+2022,Sifilis,6399,Tamaulipas
+2022,Sifilis,1198,Tlaxcala
+2022,Sifilis,3575,Veracruz
+2022,Sifilis,113,Yucatán
+2022,Sifilis,3160,Zacatecas
+2000,Cancermamario,26009,Aguascalientes
+2000,Cancermamario,62837,Baja California
+2000,Cancermamario,13967,Baja California Sur
+2000,Cancermamario,17871,Campeche
+2000,Cancermamario,53247,Coahuila
+2000,Cancermamario,24920,Colima
+2000,Cancermamario,30634,Chiapas
+2000,Cancermamario,87122,Chihuahua
+2000,Cancermamario,289812,Distrito Federal
+2000,Cancermamario,32888,Durango
+2000,Cancermamario,111654,Guanajuato
+2000,Cancermamario,33401,Guerrero
+2000,Cancermamario,31665,Hidalgo
+2000,Cancermamario,151239,Jalisco
+2000,Cancermamario,238434,México
+2000,Cancermamario,63379,Michoacán
+2000,Cancermamario,42429,Morelos
+2000,Cancermamario,21301,Nayarit
+2000,Cancermamario,149235,Nuevo León
+2000,Cancermamario,39203,Oaxaca
+2000,Cancermamario,82622,Puebla
+2000,Cancermamario,27021,Querétaro
+2000,Cancermamario,27419,Quintana Roo
+2000,Cancermamario,40457,San Luis Potosí
+2000,Cancermamario,86933,Sinaloa
+2000,Cancermamario,53320,Sonora
+2000,Cancermamario,20408,Tabasco
+2000,Cancermamario,91848,Tamaulipas
+2000,Cancermamario,21906,Tlaxcala
+2000,Cancermamario,171894,Veracruz
+2000,Cancermamario,38885,Yucatán
+2000,Cancermamario,18015,Zacatecas
+2001,Cancermamario,29255,Aguascalientes
+2001,Cancermamario,67355,Baja California
+2001,Cancermamario,14736,Baja California Sur
+2001,Cancermamario,18326,Campeche
+2001,Cancermamario,61285,Coahuila
+2001,Cancermamario,25590,Colima
+2001,Cancermamario,38264,Chiapas
+2001,Cancermamario,86720,Chihuahua
+2001,Cancermamario,305001,Distrito Federal
+2001,Cancermamario,36336,Durango
+2001,Cancermamario,117540,Guanajuato
+2001,Cancermamario,33616,Guerrero
+2001,Cancermamario,27052,Hidalgo
+2001,Cancermamario,149913,Jalisco
+2001,Cancermamario,263833,México
+2001,Cancermamario,59922,Michoacán
+2001,Cancermamario,40785,Morelos
+2001,Cancermamario,21418,Nayarit
+2001,Cancermamario,151800,Nuevo León
+2001,Cancermamario,39087,Oaxaca
+2001,Cancermamario,79210,Puebla
+2001,Cancermamario,28728,Querétaro
+2001,Cancermamario,26894,Quintana Roo
+2001,Cancermamario,55963,San Luis Potosí
+2001,Cancermamario,99320,Sinaloa
+2001,Cancermamario,54691,Sonora
+2001,Cancermamario,27576,Tabasco
+2001,Cancermamario,93449,Tamaulipas
+2001,Cancermamario,25437,Tlaxcala
+2001,Cancermamario,152584,Veracruz
+2001,Cancermamario,37366,Yucatán
+2001,Cancermamario,21904,Zacatecas
+2002,Cancermamario,28309,Aguascalientes
+2002,Cancermamario,64090,Baja California
+2002,Cancermamario,14053,Baja California Sur
+2002,Cancermamario,18987,Campeche
+2002,Cancermamario,78064,Coahuila
+2002,Cancermamario,19364,Colima
+2002,Cancermamario,37515,Chiapas
+2002,Cancermamario,107589,Chihuahua
+2002,Cancermamario,328870,Distrito Federal
+2002,Cancermamario,39609,Durango
+2002,Cancermamario,102281,Guanajuato
+2002,Cancermamario,48561,Guerrero
+2002,Cancermamario,32396,Hidalgo
+2002,Cancermamario,163406,Jalisco
+2002,Cancermamario,273953,México
+2002,Cancermamario,54511,Michoacán
+2002,Cancermamario,36530,Morelos
+2002,Cancermamario,21221,Nayarit
+2002,Cancermamario,176144,Nuevo León
+2002,Cancermamario,36316,Oaxaca
+2002,Cancermamario,79376,Puebla
+2002,Cancermamario,32141,Querétaro
+2002,Cancermamario,27423,Quintana Roo
+2002,Cancermamario,76918,San Luis Potosí
+2002,Cancermamario,93196,Sinaloa
+2002,Cancermamario,62975,Sonora
+2002,Cancermamario,26517,Tabasco
+2002,Cancermamario,125356,Tamaulipas
+2002,Cancermamario,28348,Tlaxcala
+2002,Cancermamario,158525,Veracruz
+2002,Cancermamario,40445,Yucatán
+2002,Cancermamario,21088,Zacatecas
+2003,Cancermamario,32601,Aguascalientes
+2003,Cancermamario,90481,Baja California
+2003,Cancermamario,15426,Baja California Sur
+2003,Cancermamario,29797,Campeche
+2003,Cancermamario,110003,Coahuila
+2003,Cancermamario,18299,Colima
+2003,Cancermamario,46430,Chiapas
+2003,Cancermamario,131382,Chihuahua
+2003,Cancermamario,465639,Distrito Federal
+2003,Cancermamario,46698,Durango
+2003,Cancermamario,165082,Guanajuato
+2003,Cancermamario,52589,Guerrero
+2003,Cancermamario,104918,Hidalgo
+2003,Cancermamario,179517,Jalisco
+2003,Cancermamario,445484,México
+2003,Cancermamario,86673,Michoacán
+2003,Cancermamario,51254,Morelos
+2003,Cancermamario,21435,Nayarit
+2003,Cancermamario,282591,Nuevo León
+2003,Cancermamario,33636,Oaxaca
+2003,Cancermamario,105728,Puebla
+2003,Cancermamario,88796,Querétaro
+2003,Cancermamario,33472,Quintana Roo
+2003,Cancermamario,69674,San Luis Potosí
+2003,Cancermamario,93278,Sinaloa
+2003,Cancermamario,70603,Sonora
+2003,Cancermamario,36396,Tabasco
+2003,Cancermamario,117465,Tamaulipas
+2003,Cancermamario,27892,Tlaxcala
+2003,Cancermamario,222878,Veracruz
+2003,Cancermamario,55261,Yucatán
+2003,Cancermamario,24056,Zacatecas
+2004,Cancermamario,27458,Aguascalientes
+2004,Cancermamario,56642,Baja California
+2004,Cancermamario,25272,Baja California Sur
+2004,Cancermamario,24363,Campeche
+2004,Cancermamario,107070,Coahuila
+2004,Cancermamario,20187,Colima
+2004,Cancermamario,20628,Chiapas
+2004,Cancermamario,77613,Chihuahua
+2004,Cancermamario,269041,Distrito Federal
+2004,Cancermamario,32225,Durango
+2004,Cancermamario,132350,Guanajuato
+2004,Cancermamario,42512,Guerrero
+2004,Cancermamario,49062,Hidalgo
+2004,Cancermamario,114617,Jalisco
+2004,Cancermamario,258914,México
+2004,Cancermamario,60521,Michoacán
+2004,Cancermamario,39942,Morelos
+2004,Cancermamario,32546,Nayarit
+2004,Cancermamario,144257,Nuevo León
+2004,Cancermamario,24671,Oaxaca
+2004,Cancermamario,127540,Puebla
+2004,Cancermamario,63193,Querétaro
+2004,Cancermamario,25182,Quintana Roo
+2004,Cancermamario,59930,San Luis Potosí
+2004,Cancermamario,83726,Sinaloa
+2004,Cancermamario,43932,Sonora
+2004,Cancermamario,20514,Tabasco
+2004,Cancermamario,106248,Tamaulipas
+2004,Cancermamario,16631,Tlaxcala
+2004,Cancermamario,170119,Veracruz
+2004,Cancermamario,42185,Yucatán
+2004,Cancermamario,32645,Zacatecas
+2005,Cancermamario,30973,Aguascalientes
+2005,Cancermamario,59385,Baja California
+2005,Cancermamario,23093,Baja California Sur
+2005,Cancermamario,25001,Campeche
+2005,Cancermamario,113961,Coahuila
+2005,Cancermamario,22108,Colima
+2005,Cancermamario,19235,Chiapas
+2005,Cancermamario,88882,Chihuahua
+2005,Cancermamario,282981,Distrito Federal
+2005,Cancermamario,42573,Durango
+2005,Cancermamario,152358,Guanajuato
+2005,Cancermamario,54598,Guerrero
+2005,Cancermamario,29724,Hidalgo
+2005,Cancermamario,166196,Jalisco
+2005,Cancermamario,257037,México
+2005,Cancermamario,65733,Michoacán
+2005,Cancermamario,26286,Morelos
+2005,Cancermamario,28091,Nayarit
+2005,Cancermamario,172788,Nuevo León
+2005,Cancermamario,18841,Oaxaca
+2005,Cancermamario,66484,Puebla
+2005,Cancermamario,43215,Querétaro
+2005,Cancermamario,23544,Quintana Roo
+2005,Cancermamario,79321,San Luis Potosí
+2005,Cancermamario,67794,Sinaloa
+2005,Cancermamario,46609,Sonora
+2005,Cancermamario,28911,Tabasco
+2005,Cancermamario,97420,Tamaulipas
+2005,Cancermamario,14353,Tlaxcala
+2005,Cancermamario,154781,Veracruz
+2005,Cancermamario,51206,Yucatán
+2005,Cancermamario,29042,Zacatecas
+2006,Cancermamario,42093,Aguascalientes
+2006,Cancermamario,126909,Baja California
+2006,Cancermamario,33082,Baja California Sur
+2006,Cancermamario,35237,Campeche
+2006,Cancermamario,192351,Coahuila
+2006,Cancermamario,29057,Colima
+2006,Cancermamario,43568,Chiapas
+2006,Cancermamario,128243,Chihuahua
+2006,Cancermamario,371301,Distrito Federal
+2006,Cancermamario,57022,Durango
+2006,Cancermamario,259246,Guanajuato
+2006,Cancermamario,90250,Guerrero
+2006,Cancermamario,47860,Hidalgo
+2006,Cancermamario,271393,Jalisco
+2006,Cancermamario,404457,México
+2006,Cancermamario,110792,Michoacán
+2006,Cancermamario,43012,Morelos
+2006,Cancermamario,44748,Nayarit
+2006,Cancermamario,296301,Nuevo León
+2006,Cancermamario,32623,Oaxaca
+2006,Cancermamario,92100,Puebla
+2006,Cancermamario,79638,Querétaro
+2006,Cancermamario,48538,Quintana Roo
+2006,Cancermamario,93712,San Luis Potosí
+2006,Cancermamario,108822,Sinaloa
+2006,Cancermamario,93483,Sonora
+2006,Cancermamario,42402,Tabasco
+2006,Cancermamario,138342,Tamaulipas
+2006,Cancermamario,21145,Tlaxcala
+2006,Cancermamario,222920,Veracruz
+2006,Cancermamario,82446,Yucatán
+2006,Cancermamario,33239,Zacatecas
+2007,Cancermamario,32602,Aguascalientes
+2007,Cancermamario,77600,Baja California
+2007,Cancermamario,25826,Baja California Sur
+2007,Cancermamario,23728,Campeche
+2007,Cancermamario,107601,Coahuila
+2007,Cancermamario,14985,Colima
+2007,Cancermamario,44702,Chiapas
+2007,Cancermamario,99741,Chihuahua
+2007,Cancermamario,335160,Distrito Federal
+2007,Cancermamario,43072,Durango
+2007,Cancermamario,176933,Guanajuato
+2007,Cancermamario,64752,Guerrero
+2007,Cancermamario,38129,Hidalgo
+2007,Cancermamario,209892,Jalisco
+2007,Cancermamario,340575,México
+2007,Cancermamario,74332,Michoacán
+2007,Cancermamario,40773,Morelos
+2007,Cancermamario,50440,Nayarit
+2007,Cancermamario,143201,Nuevo León
+2007,Cancermamario,22202,Oaxaca
+2007,Cancermamario,96590,Puebla
+2007,Cancermamario,77426,Querétaro
+2007,Cancermamario,38507,Quintana Roo
+2007,Cancermamario,96344,San Luis Potosí
+2007,Cancermamario,71431,Sinaloa
+2007,Cancermamario,61701,Sonora
+2007,Cancermamario,42606,Tabasco
+2007,Cancermamario,74066,Tamaulipas
+2007,Cancermamario,22790,Tlaxcala
+2007,Cancermamario,234583,Veracruz
+2007,Cancermamario,51645,Yucatán
+2007,Cancermamario,21604,Zacatecas
+2008,Cancermamario,98184,Aguascalientes
+2008,Cancermamario,82561,Baja California
+2008,Cancermamario,50348,Baja California Sur
+2008,Cancermamario,29947,Campeche
+2008,Cancermamario,182500,Coahuila
+2008,Cancermamario,21498,Colima
+2008,Cancermamario,71575,Chiapas
+2008,Cancermamario,140363,Chihuahua
+2008,Cancermamario,628012,Distrito Federal
+2008,Cancermamario,53606,Durango
+2008,Cancermamario,223866,Guanajuato
+2008,Cancermamario,62281,Guerrero
+2008,Cancermamario,44903,Hidalgo
+2008,Cancermamario,342943,Jalisco
+2008,Cancermamario,427621,México
+2008,Cancermamario,93627,Michoacán
+2008,Cancermamario,56474,Morelos
+2008,Cancermamario,52290,Nayarit
+2008,Cancermamario,449018,Nuevo León
+2008,Cancermamario,36174,Oaxaca
+2008,Cancermamario,240554,Puebla
+2008,Cancermamario,114534,Querétaro
+2008,Cancermamario,48785,Quintana Roo
+2008,Cancermamario,136981,San Luis Potosí
+2008,Cancermamario,89382,Sinaloa
+2008,Cancermamario,73608,Sonora
+2008,Cancermamario,60363,Tabasco
+2008,Cancermamario,120738,Tamaulipas
+2008,Cancermamario,27533,Tlaxcala
+2008,Cancermamario,347550,Veracruz
+2008,Cancermamario,88210,Yucatán
+2008,Cancermamario,26112,Zacatecas
+2009,Cancermamario,88425,Aguascalientes
+2009,Cancermamario,97274,Baja California
+2009,Cancermamario,48486,Baja California Sur
+2009,Cancermamario,36664,Campeche
+2009,Cancermamario,198804,Coahuila
+2009,Cancermamario,28315,Colima
+2009,Cancermamario,73009,Chiapas
+2009,Cancermamario,135309,Chihuahua
+2009,Cancermamario,824069,Distrito Federal
+2009,Cancermamario,101518,Durango
+2009,Cancermamario,286540,Guanajuato
+2009,Cancermamario,68251,Guerrero
+2009,Cancermamario,50270,Hidalgo
+2009,Cancermamario,303022,Jalisco
+2009,Cancermamario,572570,México
+2009,Cancermamario,85466,Michoacán
+2009,Cancermamario,75909,Morelos
+2009,Cancermamario,48175,Nayarit
+2009,Cancermamario,439931,Nuevo León
+2009,Cancermamario,36752,Oaxaca
+2009,Cancermamario,198685,Puebla
+2009,Cancermamario,100970,Querétaro
+2009,Cancermamario,76033,Quintana Roo
+2009,Cancermamario,132111,San Luis Potosí
+2009,Cancermamario,108772,Sinaloa
+2009,Cancermamario,89417,Sonora
+2009,Cancermamario,64434,Tabasco
+2009,Cancermamario,119719,Tamaulipas
+2009,Cancermamario,32227,Tlaxcala
+2009,Cancermamario,341555,Veracruz
+2009,Cancermamario,92371,Yucatán
+2009,Cancermamario,27573,Zacatecas
+2010,Cancermamario,125712,Aguascalientes
+2010,Cancermamario,122762,Baja California
+2010,Cancermamario,82865,Baja California Sur
+2010,Cancermamario,58523,Campeche
+2010,Cancermamario,222388,Coahuila
+2010,Cancermamario,36996,Colima
+2010,Cancermamario,71881,Chiapas
+2010,Cancermamario,130411,Chihuahua
+2010,Cancermamario,820369,Distrito Federal
+2010,Cancermamario,113075,Durango
+2010,Cancermamario,324005,Guanajuato
+2010,Cancermamario,71011,Guerrero
+2010,Cancermamario,78048,Hidalgo
+2010,Cancermamario,358646,Jalisco
+2010,Cancermamario,735500,México
+2010,Cancermamario,113879,Michoacán
+2010,Cancermamario,82798,Morelos
+2010,Cancermamario,56079,Nayarit
+2010,Cancermamario,569132,Nuevo León
+2010,Cancermamario,45274,Oaxaca
+2010,Cancermamario,223797,Puebla
+2010,Cancermamario,121116,Querétaro
+2010,Cancermamario,77902,Quintana Roo
+2010,Cancermamario,157151,San Luis Potosí
+2010,Cancermamario,129374,Sinaloa
+2010,Cancermamario,80200,Sonora
+2010,Cancermamario,69776,Tabasco
+2010,Cancermamario,168315,Tamaulipas
+2010,Cancermamario,40549,Tlaxcala
+2010,Cancermamario,418388,Veracruz
+2010,Cancermamario,119822,Yucatán
+2010,Cancermamario,37151,Zacatecas
+2011,Cancermamario,108924,Aguascalientes
+2011,Cancermamario,164273,Baja California
+2011,Cancermamario,81929,Baja California Sur
+2011,Cancermamario,60446,Campeche
+2011,Cancermamario,233023,Coahuila
+2011,Cancermamario,32394,Colima
+2011,Cancermamario,59512,Chiapas
+2011,Cancermamario,175581,Chihuahua
+2011,Cancermamario,757658,Distrito Federal
+2011,Cancermamario,118291,Durango
+2011,Cancermamario,304102,Guanajuato
+2011,Cancermamario,74562,Guerrero
+2011,Cancermamario,106285,Hidalgo
+2011,Cancermamario,363045,Jalisco
+2011,Cancermamario,732928,México
+2011,Cancermamario,168381,Michoacán
+2011,Cancermamario,80392,Morelos
+2011,Cancermamario,75436,Nayarit
+2011,Cancermamario,566259,Nuevo León
+2011,Cancermamario,55552,Oaxaca
+2011,Cancermamario,211127,Puebla
+2011,Cancermamario,122070,Querétaro
+2011,Cancermamario,57424,Quintana Roo
+2011,Cancermamario,152959,San Luis Potosí
+2011,Cancermamario,170996,Sinaloa
+2011,Cancermamario,96971,Sonora
+2011,Cancermamario,69700,Tabasco
+2011,Cancermamario,137028,Tamaulipas
+2011,Cancermamario,54310,Tlaxcala
+2011,Cancermamario,429598,Veracruz
+2011,Cancermamario,109279,Yucatán
+2011,Cancermamario,35629,Zacatecas
+2012,Cancermamario,105285,Aguascalientes
+2012,Cancermamario,205494,Baja California
+2012,Cancermamario,93480,Baja California Sur
+2012,Cancermamario,59448,Campeche
+2012,Cancermamario,242627,Coahuila
+2012,Cancermamario,41447,Colima
+2012,Cancermamario,63366,Chiapas
+2012,Cancermamario,208354,Chihuahua
+2012,Cancermamario,823862,Distrito Federal
+2012,Cancermamario,123105,Durango
+2012,Cancermamario,388383,Guanajuato
+2012,Cancermamario,75298,Guerrero
+2012,Cancermamario,121366,Hidalgo
+2012,Cancermamario,408694,Jalisco
+2012,Cancermamario,804875,México
+2012,Cancermamario,217888,Michoacán
+2012,Cancermamario,94016,Morelos
+2012,Cancermamario,78089,Nayarit
+2012,Cancermamario,621274,Nuevo León
+2012,Cancermamario,54982,Oaxaca
+2012,Cancermamario,222167,Puebla
+2012,Cancermamario,131458,Querétaro
+2012,Cancermamario,67157,Quintana Roo
+2012,Cancermamario,157535,San Luis Potosí
+2012,Cancermamario,170059,Sinaloa
+2012,Cancermamario,141732,Sonora
+2012,Cancermamario,96576,Tabasco
+2012,Cancermamario,163402,Tamaulipas
+2012,Cancermamario,53746,Tlaxcala
+2012,Cancermamario,489772,Veracruz
+2012,Cancermamario,113812,Yucatán
+2012,Cancermamario,41864,Zacatecas
+2013,Cancermamario,93726,Aguascalientes
+2013,Cancermamario,202891,Baja California
+2013,Cancermamario,95907,Baja California Sur
+2013,Cancermamario,53828,Campeche
+2013,Cancermamario,239684,Coahuila
+2013,Cancermamario,36536,Colima
+2013,Cancermamario,64864,Chiapas
+2013,Cancermamario,198166,Chihuahua
+2013,Cancermamario,820723,Distrito Federal
+2013,Cancermamario,108450,Durango
+2013,Cancermamario,348669,Guanajuato
+2013,Cancermamario,79030,Guerrero
+2013,Cancermamario,99936,Hidalgo
+2013,Cancermamario,391995,Jalisco
+2013,Cancermamario,679783,México
+2013,Cancermamario,210565,Michoacán
+2013,Cancermamario,90759,Morelos
+2013,Cancermamario,73383,Nayarit
+2013,Cancermamario,603381,Nuevo León
+2013,Cancermamario,54792,Oaxaca
+2013,Cancermamario,204463,Puebla
+2013,Cancermamario,156659,Querétaro
+2013,Cancermamario,67724,Quintana Roo
+2013,Cancermamario,155819,San Luis Potosí
+2013,Cancermamario,164226,Sinaloa
+2013,Cancermamario,178964,Sonora
+2013,Cancermamario,97800,Tabasco
+2013,Cancermamario,157174,Tamaulipas
+2013,Cancermamario,54056,Tlaxcala
+2013,Cancermamario,483059,Veracruz
+2013,Cancermamario,119008,Yucatán
+2013,Cancermamario,45586,Zacatecas
+2014,Cancermamario,124124,Aguascalientes
+2014,Cancermamario,213716,Baja California
+2014,Cancermamario,68300,Baja California Sur
+2014,Cancermamario,56491,Campeche
+2014,Cancermamario,230789,Coahuila
+2014,Cancermamario,29712,Colima
+2014,Cancermamario,59747,Chiapas
+2014,Cancermamario,204922,Chihuahua
+2014,Cancermamario,820993,Distrito Federal
+2014,Cancermamario,92565,Durango
+2014,Cancermamario,188723,Guanajuato
+2014,Cancermamario,80788,Guerrero
+2014,Cancermamario,94305,Hidalgo
+2014,Cancermamario,383521,Jalisco
+2014,Cancermamario,671891,México
+2014,Cancermamario,197571,Michoacán
+2014,Cancermamario,85564,Morelos
+2014,Cancermamario,74731,Nayarit
+2014,Cancermamario,507895,Nuevo León
+2014,Cancermamario,59433,Oaxaca
+2014,Cancermamario,193141,Puebla
+2014,Cancermamario,159683,Querétaro
+2014,Cancermamario,62018,Quintana Roo
+2014,Cancermamario,178012,San Luis Potosí
+2014,Cancermamario,154091,Sinaloa
+2014,Cancermamario,206055,Sonora
+2014,Cancermamario,96497,Tabasco
+2014,Cancermamario,164568,Tamaulipas
+2014,Cancermamario,57169,Tlaxcala
+2014,Cancermamario,436810,Veracruz
+2014,Cancermamario,111119,Yucatán
+2014,Cancermamario,43498,Zacatecas
+2015,Cancermamario,142513,Aguascalientes
+2015,Cancermamario,227494,Baja California
+2015,Cancermamario,70706,Baja California Sur
+2015,Cancermamario,60814,Campeche
+2015,Cancermamario,277211,Coahuila
+2015,Cancermamario,33503,Colima
+2015,Cancermamario,69461,Chiapas
+2015,Cancermamario,204631,Chihuahua
+2015,Cancermamario,723266,Distrito Federal
+2015,Cancermamario,84145,Durango
+2015,Cancermamario,171839,Guanajuato
+2015,Cancermamario,88128,Guerrero
+2015,Cancermamario,99406,Hidalgo
+2015,Cancermamario,364619,Jalisco
+2015,Cancermamario,611090,México
+2015,Cancermamario,214700,Michoacán
+2015,Cancermamario,74625,Morelos
+2015,Cancermamario,73416,Nayarit
+2015,Cancermamario,527647,Nuevo León
+2015,Cancermamario,59175,Oaxaca
+2015,Cancermamario,227876,Puebla
+2015,Cancermamario,142242,Querétaro
+2015,Cancermamario,71886,Quintana Roo
+2015,Cancermamario,172686,San Luis Potosí
+2015,Cancermamario,185853,Sinaloa
+2015,Cancermamario,248149,Sonora
+2015,Cancermamario,83517,Tabasco
+2015,Cancermamario,181036,Tamaulipas
+2015,Cancermamario,59977,Tlaxcala
+2015,Cancermamario,504634,Veracruz
+2015,Cancermamario,98894,Yucatán
+2015,Cancermamario,39783,Zacatecas
+2016,Cancermamario,130126,Aguascalientes
+2016,Cancermamario,192958,Baja California
+2016,Cancermamario,67495,Baja California Sur
+2016,Cancermamario,60594,Campeche
+2016,Cancermamario,270956,Coahuila
+2016,Cancermamario,36224,Colima
+2016,Cancermamario,62197,Chiapas
+2016,Cancermamario,191912,Chihuahua
+2016,Cancermamario,694109,Distrito Federal
+2016,Cancermamario,72301,Durango
+2016,Cancermamario,172930,Guanajuato
+2016,Cancermamario,75951,Guerrero
+2016,Cancermamario,83931,Hidalgo
+2016,Cancermamario,372552,Jalisco
+2016,Cancermamario,538560,México
+2016,Cancermamario,200534,Michoacán
+2016,Cancermamario,94652,Morelos
+2016,Cancermamario,70219,Nayarit
+2016,Cancermamario,549588,Nuevo León
+2016,Cancermamario,59852,Oaxaca
+2016,Cancermamario,224881,Puebla
+2016,Cancermamario,129973,Querétaro
+2016,Cancermamario,75513,Quintana Roo
+2016,Cancermamario,191581,San Luis Potosí
+2016,Cancermamario,158893,Sinaloa
+2016,Cancermamario,243113,Sonora
+2016,Cancermamario,77579,Tabasco
+2016,Cancermamario,190378,Tamaulipas
+2016,Cancermamario,62688,Tlaxcala
+2016,Cancermamario,431137,Veracruz
+2016,Cancermamario,123438,Yucatán
+2016,Cancermamario,35900,Zacatecas
+2017,Cancermamario,137069,Aguascalientes
+2017,Cancermamario,237189,Baja California
+2017,Cancermamario,67003,Baja California Sur
+2017,Cancermamario,56203,Campeche
+2017,Cancermamario,291940,Coahuila
+2017,Cancermamario,40639,Colima
+2017,Cancermamario,67236,Chiapas
+2017,Cancermamario,191919,Chihuahua
+2017,Cancermamario,690402,Distrito Federal
+2017,Cancermamario,85799,Durango
+2017,Cancermamario,170224,Guanajuato
+2017,Cancermamario,81210,Guerrero
+2017,Cancermamario,89350,Hidalgo
+2017,Cancermamario,407902,Jalisco
+2017,Cancermamario,582836,México
+2017,Cancermamario,203720,Michoacán
+2017,Cancermamario,92857,Morelos
+2017,Cancermamario,72140,Nayarit
+2017,Cancermamario,669868,Nuevo León
+2017,Cancermamario,62944,Oaxaca
+2017,Cancermamario,232335,Puebla
+2017,Cancermamario,143316,Querétaro
+2017,Cancermamario,92217,Quintana Roo
+2017,Cancermamario,177168,San Luis Potosí
+2017,Cancermamario,180760,Sinaloa
+2017,Cancermamario,247916,Sonora
+2017,Cancermamario,82508,Tabasco
+2017,Cancermamario,200415,Tamaulipas
+2017,Cancermamario,67012,Tlaxcala
+2017,Cancermamario,439821,Veracruz
+2017,Cancermamario,120473,Yucatán
+2017,Cancermamario,43874,Zacatecas
+2018,Cancermamario,131152,Aguascalientes
+2018,Cancermamario,247658,Baja California
+2018,Cancermamario,66833,Baja California Sur
+2018,Cancermamario,52525,Campeche
+2018,Cancermamario,296524,Coahuila
+2018,Cancermamario,39239,Colima
+2018,Cancermamario,72671,Chiapas
+2018,Cancermamario,196931,Chihuahua
+2018,Cancermamario,730395,Distrito Federal
+2018,Cancermamario,96043,Durango
+2018,Cancermamario,182747,Guanajuato
+2018,Cancermamario,73223,Guerrero
+2018,Cancermamario,66740,Hidalgo
+2018,Cancermamario,484178,Jalisco
+2018,Cancermamario,623589,México
+2018,Cancermamario,181222,Michoacán
+2018,Cancermamario,100184,Morelos
+2018,Cancermamario,62888,Nayarit
+2018,Cancermamario,661657,Nuevo León
+2018,Cancermamario,67107,Oaxaca
+2018,Cancermamario,241983,Puebla
+2018,Cancermamario,139185,Querétaro
+2018,Cancermamario,93092,Quintana Roo
+2018,Cancermamario,165369,San Luis Potosí
+2018,Cancermamario,190437,Sinaloa
+2018,Cancermamario,233318,Sonora
+2018,Cancermamario,79090,Tabasco
+2018,Cancermamario,218980,Tamaulipas
+2018,Cancermamario,66888,Tlaxcala
+2018,Cancermamario,433615,Veracruz
+2018,Cancermamario,129172,Yucatán
+2018,Cancermamario,40553,Zacatecas
+2019,Cancermamario,110141,Aguascalientes
+2019,Cancermamario,228266,Baja California
+2019,Cancermamario,56692,Baja California Sur
+2019,Cancermamario,54732,Campeche
+2019,Cancermamario,302895,Coahuila
+2019,Cancermamario,36620,Colima
+2019,Cancermamario,72771,Chiapas
+2019,Cancermamario,184509,Chihuahua
+2019,Cancermamario,685751,Distrito Federal
+2019,Cancermamario,97780,Durango
+2019,Cancermamario,153933,Guanajuato
+2019,Cancermamario,66161,Guerrero
+2019,Cancermamario,92623,Hidalgo
+2019,Cancermamario,426830,Jalisco
+2019,Cancermamario,653633,México
+2019,Cancermamario,150448,Michoacán
+2019,Cancermamario,89839,Morelos
+2019,Cancermamario,68191,Nayarit
+2019,Cancermamario,764723,Nuevo León
+2019,Cancermamario,67719,Oaxaca
+2019,Cancermamario,270773,Puebla
+2019,Cancermamario,119201,Querétaro
+2019,Cancermamario,85419,Quintana Roo
+2019,Cancermamario,142576,San Luis Potosí
+2019,Cancermamario,176867,Sinaloa
+2019,Cancermamario,225195,Sonora
+2019,Cancermamario,77269,Tabasco
+2019,Cancermamario,233849,Tamaulipas
+2019,Cancermamario,56719,Tlaxcala
+2019,Cancermamario,413003,Veracruz
+2019,Cancermamario,126031,Yucatán
+2019,Cancermamario,39835,Zacatecas
+2020,Cancermamario,52083,Aguascalientes
+2020,Cancermamario,106488,Baja California
+2020,Cancermamario,25914,Baja California Sur
+2020,Cancermamario,29533,Campeche
+2020,Cancermamario,120491,Coahuila
+2020,Cancermamario,21125,Colima
+2020,Cancermamario,33495,Chiapas
+2020,Cancermamario,81977,Chihuahua
+2020,Cancermamario,374704,Distrito Federal
+2020,Cancermamario,53215,Durango
+2020,Cancermamario,85475,Guanajuato
+2020,Cancermamario,34417,Guerrero
+2020,Cancermamario,43550,Hidalgo
+2020,Cancermamario,244024,Jalisco
+2020,Cancermamario,376392,México
+2020,Cancermamario,90206,Michoacán
+2020,Cancermamario,62474,Morelos
+2020,Cancermamario,40650,Nayarit
+2020,Cancermamario,470485,Nuevo León
+2020,Cancermamario,29882,Oaxaca
+2020,Cancermamario,174760,Puebla
+2020,Cancermamario,64331,Querétaro
+2020,Cancermamario,43514,Quintana Roo
+2020,Cancermamario,93062,San Luis Potosí
+2020,Cancermamario,79151,Sinaloa
+2020,Cancermamario,105208,Sonora
+2020,Cancermamario,31500,Tabasco
+2020,Cancermamario,92000,Tamaulipas
+2020,Cancermamario,39402,Tlaxcala
+2020,Cancermamario,219815,Veracruz
+2020,Cancermamario,54166,Yucatán
+2020,Cancermamario,19422,Zacatecas
+2021,Cancermamario,87834,Aguascalientes
+2021,Cancermamario,196435,Baja California
+2021,Cancermamario,46255,Baja California Sur
+2021,Cancermamario,51356,Campeche
+2021,Cancermamario,244155,Coahuila
+2021,Cancermamario,30176,Colima
+2021,Cancermamario,58078,Chiapas
+2021,Cancermamario,161079,Chihuahua
+2021,Cancermamario,614502,Distrito Federal
+2021,Cancermamario,89910,Durango
+2021,Cancermamario,159326,Guanajuato
+2021,Cancermamario,51854,Guerrero
+2021,Cancermamario,81516,Hidalgo
+2021,Cancermamario,318162,Jalisco
+2021,Cancermamario,512465,México
+2021,Cancermamario,129341,Michoacán
+2021,Cancermamario,88686,Morelos
+2021,Cancermamario,67277,Nayarit
+2021,Cancermamario,714623,Nuevo León
+2021,Cancermamario,52182,Oaxaca
+2021,Cancermamario,285889,Puebla
+2021,Cancermamario,96296,Querétaro
+2021,Cancermamario,66009,Quintana Roo
+2021,Cancermamario,150145,San Luis Potosí
+2021,Cancermamario,127639,Sinaloa
+2021,Cancermamario,181940,Sonora
+2021,Cancermamario,61027,Tabasco
+2021,Cancermamario,159169,Tamaulipas
+2021,Cancermamario,49637,Tlaxcala
+2021,Cancermamario,287718,Veracruz
+2021,Cancermamario,105169,Yucatán
+2021,Cancermamario,32228,Zacatecas
+2022,Cancermamario,99515,Aguascalientes
+2022,Cancermamario,230985,Baja California
+2022,Cancermamario,88349,Baja California Sur
+2022,Cancermamario,63968,Campeche
+2022,Cancermamario,285188,Coahuila
+2022,Cancermamario,36006,Colima
+2022,Cancermamario,68749,Chiapas
+2022,Cancermamario,205932,Chihuahua
+2022,Cancermamario,281508,Distrito Federal
+2022,Cancermamario,62025,Durango
+2022,Cancermamario,99477,Guanajuato
+2022,Cancermamario,410565,Guerrero
+2022,Cancermamario,511400,Hidalgo
+2022,Cancermamario,174745,Jalisco
+2022,Cancermamario,245028,México
+2022,Cancermamario,96200,Michoacán
+2022,Cancermamario,790252,Morelos
+2022,Cancermamario,62763,Nayarit
+2022,Cancermamario,330571,Nuevo León
+2022,Cancermamario,125094,Oaxaca
+2022,Cancermamario,79669,Puebla
+2022,Cancermamario,173258,Querétaro
+2022,Cancermamario,164346,Quintana Roo
+2022,Cancermamario,199350,San Luis Potosí
+2022,Cancermamario,72097,Sinaloa
+2022,Cancermamario,182179,Sonora
+2022,Cancermamario,55782,Tabasco
+2022,Cancermamario,166157,Tamaulipas
+2022,Cancermamario,144387,Tlaxcala
+2022,Cancermamario,177580,Veracruz
+2022,Cancermamario,195967,Yucatán
+2022,Cancermamario,497698,Zacatecas
+2000,Diabetes,67543,Aguascalientes
+2000,Diabetes,122240,Baja California
+2000,Diabetes,29843,Baja California Sur
+2000,Diabetes,41807,Campeche
+2000,Diabetes,179643,Coahuila
+2000,Diabetes,42920,Colima
+2000,Diabetes,82796,Chiapas
+2000,Diabetes,199771,Chihuahua
+2000,Diabetes,720886,Distrito Federal
+2000,Diabetes,98464,Durango
+2000,Diabetes,228811,Guanajuato
+2000,Diabetes,79404,Guerrero
+2000,Diabetes,57664,Hidalgo
+2000,Diabetes,363714,Jalisco
+2000,Diabetes,592700,México
+2000,Diabetes,131023,Michoacán
+2000,Diabetes,90151,Morelos
+2000,Diabetes,44770,Nayarit
+2000,Diabetes,414512,Nuevo León
+2000,Diabetes,70951,Oaxaca
+2000,Diabetes,194299,Puebla
+2000,Diabetes,64929,Querétaro
+2000,Diabetes,52489,Quintana Roo
+2000,Diabetes,60937,San Luis Potosí
+2000,Diabetes,219987,Sinaloa
+2000,Diabetes,136037,Sonora
+2000,Diabetes,50235,Tabasco
+2000,Diabetes,221992,Tamaulipas
+2000,Diabetes,41538,Tlaxcala
+2000,Diabetes,321658,Veracruz
+2000,Diabetes,115214,Yucatán
+2000,Diabetes,46175,Zacatecas
+2001,Diabetes,76375,Aguascalientes
+2001,Diabetes,123325,Baja California
+2001,Diabetes,34749,Baja California Sur
+2001,Diabetes,41366,Campeche
+2001,Diabetes,224937,Coahuila
+2001,Diabetes,46691,Colima
+2001,Diabetes,75049,Chiapas
+2001,Diabetes,208851,Chihuahua
+2001,Diabetes,734924,Distrito Federal
+2001,Diabetes,105907,Durango
+2001,Diabetes,253986,Guanajuato
+2001,Diabetes,85526,Guerrero
+2001,Diabetes,60291,Hidalgo
+2001,Diabetes,353475,Jalisco
+2001,Diabetes,635334,México
+2001,Diabetes,130482,Michoacán
+2001,Diabetes,76926,Morelos
+2001,Diabetes,59761,Nayarit
+2001,Diabetes,398720,Nuevo León
+2001,Diabetes,77993,Oaxaca
+2001,Diabetes,175935,Puebla
+2001,Diabetes,63005,Querétaro
+2001,Diabetes,33942,Quintana Roo
+2001,Diabetes,65122,San Luis Potosí
+2001,Diabetes,193680,Sinaloa
+2001,Diabetes,113616,Sonora
+2001,Diabetes,54479,Tabasco
+2001,Diabetes,226094,Tamaulipas
+2001,Diabetes,45091,Tlaxcala
+2001,Diabetes,285734,Veracruz
+2001,Diabetes,119281,Yucatán
+2001,Diabetes,49549,Zacatecas
+2002,Diabetes,77405,Aguascalientes
+2002,Diabetes,113658,Baja California
+2002,Diabetes,34263,Baja California Sur
+2002,Diabetes,46574,Campeche
+2002,Diabetes,219128,Coahuila
+2002,Diabetes,39286,Colima
+2002,Diabetes,76566,Chiapas
+2002,Diabetes,251252,Chihuahua
+2002,Diabetes,770311,Distrito Federal
+2002,Diabetes,105794,Durango
+2002,Diabetes,218135,Guanajuato
+2002,Diabetes,113091,Guerrero
+2002,Diabetes,54763,Hidalgo
+2002,Diabetes,320156,Jalisco
+2002,Diabetes,720450,México
+2002,Diabetes,124015,Michoacán
+2002,Diabetes,80464,Morelos
+2002,Diabetes,37094,Nayarit
+2002,Diabetes,405432,Nuevo León
+2002,Diabetes,73374,Oaxaca
+2002,Diabetes,138801,Puebla
+2002,Diabetes,73942,Querétaro
+2002,Diabetes,43530,Quintana Roo
+2002,Diabetes,117498,San Luis Potosí
+2002,Diabetes,171939,Sinaloa
+2002,Diabetes,139717,Sonora
+2002,Diabetes,61908,Tabasco
+2002,Diabetes,237023,Tamaulipas
+2002,Diabetes,51927,Tlaxcala
+2002,Diabetes,261688,Veracruz
+2002,Diabetes,129223,Yucatán
+2002,Diabetes,52899,Zacatecas
+2003,Diabetes,74338,Aguascalientes
+2003,Diabetes,178379,Baja California
+2003,Diabetes,38348,Baja California Sur
+2003,Diabetes,53694,Campeche
+2003,Diabetes,266316,Coahuila
+2003,Diabetes,38906,Colima
+2003,Diabetes,75491,Chiapas
+2003,Diabetes,244106,Chihuahua
+2003,Diabetes,817083,Distrito Federal
+2003,Diabetes,134825,Durango
+2003,Diabetes,240753,Guanajuato
+2003,Diabetes,102630,Guerrero
+2003,Diabetes,143999,Hidalgo
+2003,Diabetes,386968,Jalisco
+2003,Diabetes,721251,México
+2003,Diabetes,173994,Michoacán
+2003,Diabetes,91569,Morelos
+2003,Diabetes,38870,Nayarit
+2003,Diabetes,522584,Nuevo León
+2003,Diabetes,59226,Oaxaca
+2003,Diabetes,150251,Puebla
+2003,Diabetes,139095,Querétaro
+2003,Diabetes,68408,Quintana Roo
+2003,Diabetes,107291,San Luis Potosí
+2003,Diabetes,187831,Sinaloa
+2003,Diabetes,188747,Sonora
+2003,Diabetes,65241,Tabasco
+2003,Diabetes,260945,Tamaulipas
+2003,Diabetes,45317,Tlaxcala
+2003,Diabetes,374204,Veracruz
+2003,Diabetes,156252,Yucatán
+2003,Diabetes,47165,Zacatecas
+2004,Diabetes,74935,Aguascalientes
+2004,Diabetes,158505,Baja California
+2004,Diabetes,89279,Baja California Sur
+2004,Diabetes,63447,Campeche
+2004,Diabetes,363994,Coahuila
+2004,Diabetes,44102,Colima
+2004,Diabetes,58580,Chiapas
+2004,Diabetes,338580,Chihuahua
+2004,Diabetes,775887,Distrito Federal
+2004,Diabetes,118771,Durango
+2004,Diabetes,238961,Guanajuato
+2004,Diabetes,118622,Guerrero
+2004,Diabetes,75648,Hidalgo
+2004,Diabetes,488321,Jalisco
+2004,Diabetes,659438,México
+2004,Diabetes,170582,Michoacán
+2004,Diabetes,106465,Morelos
+2004,Diabetes,29875,Nayarit
+2004,Diabetes,539394,Nuevo León
+2004,Diabetes,76650,Oaxaca
+2004,Diabetes,290450,Puebla
+2004,Diabetes,158768,Querétaro
+2004,Diabetes,111251,Quintana Roo
+2004,Diabetes,145502,San Luis Potosí
+2004,Diabetes,302588,Sinaloa
+2004,Diabetes,130045,Sonora
+2004,Diabetes,41517,Tabasco
+2004,Diabetes,229312,Tamaulipas
+2004,Diabetes,44448,Tlaxcala
+2004,Diabetes,551408,Veracruz
+2004,Diabetes,151960,Yucatán
+2004,Diabetes,43589,Zacatecas
+2005,Diabetes,21357,Aguascalientes
+2005,Diabetes,42437,Baja California
+2005,Diabetes,13408,Baja California Sur
+2005,Diabetes,13777,Campeche
+2005,Diabetes,92649,Coahuila
+2005,Diabetes,13492,Colima
+2005,Diabetes,14784,Chiapas
+2005,Diabetes,93994,Chihuahua
+2005,Diabetes,263506,Distrito Federal
+2005,Diabetes,30547,Durango
+2005,Diabetes,65203,Guanajuato
+2005,Diabetes,48952,Guerrero
+2005,Diabetes,22981,Hidalgo
+2005,Diabetes,128065,Jalisco
+2005,Diabetes,189306,México
+2005,Diabetes,54767,Michoacán
+2005,Diabetes,28522,Morelos
+2005,Diabetes,14270,Nayarit
+2005,Diabetes,134003,Nuevo León
+2005,Diabetes,17188,Oaxaca
+2005,Diabetes,58889,Puebla
+2005,Diabetes,34419,Querétaro
+2005,Diabetes,15432,Quintana Roo
+2005,Diabetes,37809,San Luis Potosí
+2005,Diabetes,78712,Sinaloa
+2005,Diabetes,43419,Sonora
+2005,Diabetes,12858,Tabasco
+2005,Diabetes,47432,Tamaulipas
+2005,Diabetes,11198,Tlaxcala
+2005,Diabetes,146922,Veracruz
+2005,Diabetes,42288,Yucatán
+2005,Diabetes,18486,Zacatecas
+2006,Diabetes,29483,Aguascalientes
+2006,Diabetes,73488,Baja California
+2006,Diabetes,21050,Baja California Sur
+2006,Diabetes,24160,Campeche
+2006,Diabetes,119856,Coahuila
+2006,Diabetes,21803,Colima
+2006,Diabetes,35600,Chiapas
+2006,Diabetes,119561,Chihuahua
+2006,Diabetes,321573,Distrito Federal
+2006,Diabetes,41499,Durango
+2006,Diabetes,132370,Guanajuato
+2006,Diabetes,68286,Guerrero
+2006,Diabetes,38248,Hidalgo
+2006,Diabetes,211503,Jalisco
+2006,Diabetes,290096,México
+2006,Diabetes,81738,Michoacán
+2006,Diabetes,43161,Morelos
+2006,Diabetes,32907,Nayarit
+2006,Diabetes,196877,Nuevo León
+2006,Diabetes,27208,Oaxaca
+2006,Diabetes,77829,Puebla
+2006,Diabetes,46806,Querétaro
+2006,Diabetes,28354,Quintana Roo
+2006,Diabetes,44652,San Luis Potosí
+2006,Diabetes,107343,Sinaloa
+2006,Diabetes,76606,Sonora
+2006,Diabetes,23383,Tabasco
+2006,Diabetes,83731,Tamaulipas
+2006,Diabetes,16765,Tlaxcala
+2006,Diabetes,194298,Veracruz
+2006,Diabetes,67405,Yucatán
+2006,Diabetes,23782,Zacatecas
+2007,Diabetes,78604,Aguascalientes
+2007,Diabetes,206365,Baja California
+2007,Diabetes,43319,Baja California Sur
+2007,Diabetes,29228,Campeche
+2007,Diabetes,235882,Coahuila
+2007,Diabetes,39648,Colima
+2007,Diabetes,111003,Chiapas
+2007,Diabetes,219450,Chihuahua
+2007,Diabetes,607050,Distrito Federal
+2007,Diabetes,103150,Durango
+2007,Diabetes,242532,Guanajuato
+2007,Diabetes,121102,Guerrero
+2007,Diabetes,76123,Hidalgo
+2007,Diabetes,499633,Jalisco
+2007,Diabetes,652073,México
+2007,Diabetes,182762,Michoacán
+2007,Diabetes,83713,Morelos
+2007,Diabetes,66401,Nayarit
+2007,Diabetes,296307,Nuevo León
+2007,Diabetes,57414,Oaxaca
+2007,Diabetes,151475,Puebla
+2007,Diabetes,114698,Querétaro
+2007,Diabetes,55508,Quintana Roo
+2007,Diabetes,135611,San Luis Potosí
+2007,Diabetes,159611,Sinaloa
+2007,Diabetes,178656,Sonora
+2007,Diabetes,33611,Tabasco
+2007,Diabetes,171559,Tamaulipas
+2007,Diabetes,45357,Tlaxcala
+2007,Diabetes,338506,Veracruz
+2007,Diabetes,108336,Yucatán
+2007,Diabetes,39863,Zacatecas
+2008,Diabetes,133158,Aguascalientes
+2008,Diabetes,253983,Baja California
+2008,Diabetes,65500,Baja California Sur
+2008,Diabetes,20968,Campeche
+2008,Diabetes,284550,Coahuila
+2008,Diabetes,50894,Colima
+2008,Diabetes,133367,Chiapas
+2008,Diabetes,255615,Chihuahua
+2008,Diabetes,920870,Distrito Federal
+2008,Diabetes,115408,Durango
+2008,Diabetes,238322,Guanajuato
+2008,Diabetes,126024,Guerrero
+2008,Diabetes,81043,Hidalgo
+2008,Diabetes,642554,Jalisco
+2008,Diabetes,728185,México
+2008,Diabetes,222616,Michoacán
+2008,Diabetes,90289,Morelos
+2008,Diabetes,62861,Nayarit
+2008,Diabetes,466138,Nuevo León
+2008,Diabetes,67711,Oaxaca
+2008,Diabetes,222817,Puebla
+2008,Diabetes,172443,Querétaro
+2008,Diabetes,48227,Quintana Roo
+2008,Diabetes,168779,San Luis Potosí
+2008,Diabetes,194429,Sinaloa
+2008,Diabetes,225624,Sonora
+2008,Diabetes,36710,Tabasco
+2008,Diabetes,231250,Tamaulipas
+2008,Diabetes,51438,Tlaxcala
+2008,Diabetes,416465,Veracruz
+2008,Diabetes,137939,Yucatán
+2008,Diabetes,42603,Zacatecas
+2009,Diabetes,142229,Aguascalientes
+2009,Diabetes,226223,Baja California
+2009,Diabetes,67682,Baja California Sur
+2009,Diabetes,21644,Campeche
+2009,Diabetes,285000,Coahuila
+2009,Diabetes,54534,Colima
+2009,Diabetes,145137,Chiapas
+2009,Diabetes,294810,Chihuahua
+2009,Diabetes,1116615,Distrito Federal
+2009,Diabetes,156244,Durango
+2009,Diabetes,314975,Guanajuato
+2009,Diabetes,139157,Guerrero
+2009,Diabetes,80566,Hidalgo
+2009,Diabetes,544893,Jalisco
+2009,Diabetes,839515,México
+2009,Diabetes,203941,Michoacán
+2009,Diabetes,120891,Morelos
+2009,Diabetes,58486,Nayarit
+2009,Diabetes,560261,Nuevo León
+2009,Diabetes,70601,Oaxaca
+2009,Diabetes,268833,Puebla
+2009,Diabetes,144821,Querétaro
+2009,Diabetes,59540,Quintana Roo
+2009,Diabetes,144023,San Luis Potosí
+2009,Diabetes,238812,Sinaloa
+2009,Diabetes,257215,Sonora
+2009,Diabetes,36379,Tabasco
+2009,Diabetes,238917,Tamaulipas
+2009,Diabetes,51693,Tlaxcala
+2009,Diabetes,372637,Veracruz
+2009,Diabetes,149361,Yucatán
+2009,Diabetes,50362,Zacatecas
+2010,Diabetes,178663,Aguascalientes
+2010,Diabetes,319744,Baja California
+2010,Diabetes,94018,Baja California Sur
+2010,Diabetes,37900,Campeche
+2010,Diabetes,359312,Coahuila
+2010,Diabetes,68680,Colima
+2010,Diabetes,138197,Chiapas
+2010,Diabetes,306279,Chihuahua
+2010,Diabetes,1126374,Distrito Federal
+2010,Diabetes,204610,Durango
+2010,Diabetes,331682,Guanajuato
+2010,Diabetes,141208,Guerrero
+2010,Diabetes,98110,Hidalgo
+2010,Diabetes,699100,Jalisco
+2010,Diabetes,1075664,México
+2010,Diabetes,197320,Michoacán
+2010,Diabetes,165798,Morelos
+2010,Diabetes,77680,Nayarit
+2010,Diabetes,713330,Nuevo León
+2010,Diabetes,94130,Oaxaca
+2010,Diabetes,254973,Puebla
+2010,Diabetes,155788,Querétaro
+2010,Diabetes,71907,Quintana Roo
+2010,Diabetes,153837,San Luis Potosí
+2010,Diabetes,303134,Sinaloa
+2010,Diabetes,259391,Sonora
+2010,Diabetes,38834,Tabasco
+2010,Diabetes,318563,Tamaulipas
+2010,Diabetes,55483,Tlaxcala
+2010,Diabetes,466423,Veracruz
+2010,Diabetes,163850,Yucatán
+2010,Diabetes,60074,Zacatecas
+2011,Diabetes,204349,Aguascalientes
+2011,Diabetes,390595,Baja California
+2011,Diabetes,94020,Baja California Sur
+2011,Diabetes,39585,Campeche
+2011,Diabetes,404104,Coahuila
+2011,Diabetes,74517,Colima
+2011,Diabetes,137115,Chiapas
+2011,Diabetes,417307,Chihuahua
+2011,Diabetes,1258266,Distrito Federal
+2011,Diabetes,273611,Durango
+2011,Diabetes,319572,Guanajuato
+2011,Diabetes,133297,Guerrero
+2011,Diabetes,118085,Hidalgo
+2011,Diabetes,853525,Jalisco
+2011,Diabetes,1337238,México
+2011,Diabetes,196263,Michoacán
+2011,Diabetes,181640,Morelos
+2011,Diabetes,104982,Nayarit
+2011,Diabetes,865816,Nuevo León
+2011,Diabetes,114745,Oaxaca
+2011,Diabetes,252665,Puebla
+2011,Diabetes,135300,Querétaro
+2011,Diabetes,56125,Quintana Roo
+2011,Diabetes,181273,San Luis Potosí
+2011,Diabetes,422212,Sinaloa
+2011,Diabetes,333229,Sonora
+2011,Diabetes,43126,Tabasco
+2011,Diabetes,286918,Tamaulipas
+2011,Diabetes,57895,Tlaxcala
+2011,Diabetes,468921,Veracruz
+2011,Diabetes,158040,Yucatán
+2011,Diabetes,56425,Zacatecas
+2012,Diabetes,225115,Aguascalientes
+2012,Diabetes,455190,Baja California
+2012,Diabetes,96659,Baja California Sur
+2012,Diabetes,44519,Campeche
+2012,Diabetes,421009,Coahuila
+2012,Diabetes,79651,Colima
+2012,Diabetes,133917,Chiapas
+2012,Diabetes,498673,Chihuahua
+2012,Diabetes,1370853,Distrito Federal
+2012,Diabetes,283323,Durango
+2012,Diabetes,352057,Guanajuato
+2012,Diabetes,127938,Guerrero
+2012,Diabetes,132800,Hidalgo
+2012,Diabetes,972370,Jalisco
+2012,Diabetes,1654403,México
+2012,Diabetes,223777,Michoacán
+2012,Diabetes,186949,Morelos
+2012,Diabetes,106980,Nayarit
+2012,Diabetes,996724,Nuevo León
+2012,Diabetes,122916,Oaxaca
+2012,Diabetes,292179,Puebla
+2012,Diabetes,122682,Querétaro
+2012,Diabetes,69116,Quintana Roo
+2012,Diabetes,190356,San Luis Potosí
+2012,Diabetes,451371,Sinaloa
+2012,Diabetes,363370,Sonora
+2012,Diabetes,58873,Tabasco
+2012,Diabetes,315124,Tamaulipas
+2012,Diabetes,61347,Tlaxcala
+2012,Diabetes,533558,Veracruz
+2012,Diabetes,202579,Yucatán
+2012,Diabetes,56666,Zacatecas
+2013,Diabetes,194036,Aguascalientes
+2013,Diabetes,418876,Baja California
+2013,Diabetes,102908,Baja California Sur
+2013,Diabetes,58167,Campeche
+2013,Diabetes,435345,Coahuila
+2013,Diabetes,66771,Colima
+2013,Diabetes,126406,Chiapas
+2013,Diabetes,471558,Chihuahua
+2013,Diabetes,1810921,Distrito Federal
+2013,Diabetes,291250,Durango
+2013,Diabetes,327014,Guanajuato
+2013,Diabetes,131882,Guerrero
+2013,Diabetes,135337,Hidalgo
+2013,Diabetes,1020871,Jalisco
+2013,Diabetes,1714152,México
+2013,Diabetes,211789,Michoacán
+2013,Diabetes,176208,Morelos
+2013,Diabetes,103376,Nayarit
+2013,Diabetes,1211010,Nuevo León
+2013,Diabetes,112501,Oaxaca
+2013,Diabetes,266187,Puebla
+2013,Diabetes,156711,Querétaro
+2013,Diabetes,75991,Quintana Roo
+2013,Diabetes,190933,San Luis Potosí
+2013,Diabetes,464545,Sinaloa
+2013,Diabetes,352556,Sonora
+2013,Diabetes,67947,Tabasco
+2013,Diabetes,380147,Tamaulipas
+2013,Diabetes,60459,Tlaxcala
+2013,Diabetes,509864,Veracruz
+2013,Diabetes,204450,Yucatán
+2013,Diabetes,53255,Zacatecas
+2014,Diabetes,179898,Aguascalientes
+2014,Diabetes,391975,Baja California
+2014,Diabetes,74061,Baja California Sur
+2014,Diabetes,55157,Campeche
+2014,Diabetes,379859,Coahuila
+2014,Diabetes,66589,Colima
+2014,Diabetes,109383,Chiapas
+2014,Diabetes,433229,Chihuahua
+2014,Diabetes,1468749,Distrito Federal
+2014,Diabetes,193841,Durango
+2014,Diabetes,230340,Guanajuato
+2014,Diabetes,128058,Guerrero
+2014,Diabetes,124510,Hidalgo
+2014,Diabetes,866436,Jalisco
+2014,Diabetes,1307794,México
+2014,Diabetes,196231,Michoacán
+2014,Diabetes,129292,Morelos
+2014,Diabetes,107023,Nayarit
+2014,Diabetes,1011234,Nuevo León
+2014,Diabetes,103598,Oaxaca
+2014,Diabetes,239675,Puebla
+2014,Diabetes,100456,Querétaro
+2014,Diabetes,73046,Quintana Roo
+2014,Diabetes,244569,San Luis Potosí
+2014,Diabetes,317299,Sinaloa
+2014,Diabetes,293261,Sonora
+2014,Diabetes,60665,Tabasco
+2014,Diabetes,371851,Tamaulipas
+2014,Diabetes,61870,Tlaxcala
+2014,Diabetes,430178,Veracruz
+2014,Diabetes,170555,Yucatán
+2014,Diabetes,52015,Zacatecas
+2015,Diabetes,234123,Aguascalientes
+2015,Diabetes,582879,Baja California
+2015,Diabetes,73752,Baja California Sur
+2015,Diabetes,67127,Campeche
+2015,Diabetes,478300,Coahuila
+2015,Diabetes,93374,Colima
+2015,Diabetes,188511,Chiapas
+2015,Diabetes,440178,Chihuahua
+2015,Diabetes,1898146,Distrito Federal
+2015,Diabetes,215914,Durango
+2015,Diabetes,263252,Guanajuato
+2015,Diabetes,178610,Guerrero
+2015,Diabetes,142628,Hidalgo
+2015,Diabetes,1001923,Jalisco
+2015,Diabetes,1481971,México
+2015,Diabetes,307000,Michoacán
+2015,Diabetes,105811,Morelos
+2015,Diabetes,133951,Nayarit
+2015,Diabetes,1246983,Nuevo León
+2015,Diabetes,118744,Oaxaca
+2015,Diabetes,349825,Puebla
+2015,Diabetes,176199,Querétaro
+2015,Diabetes,129828,Quintana Roo
+2015,Diabetes,289503,San Luis Potosí
+2015,Diabetes,415299,Sinaloa
+2015,Diabetes,441915,Sonora
+2015,Diabetes,113499,Tabasco
+2015,Diabetes,510867,Tamaulipas
+2015,Diabetes,76751,Tlaxcala
+2015,Diabetes,698323,Veracruz
+2015,Diabetes,189396,Yucatán
+2015,Diabetes,70501,Zacatecas
+2016,Diabetes,228371,Aguascalientes
+2016,Diabetes,585283,Baja California
+2016,Diabetes,105938,Baja California Sur
+2016,Diabetes,108251,Campeche
+2016,Diabetes,536878,Coahuila
+2016,Diabetes,107724,Colima
+2016,Diabetes,212872,Chiapas
+2016,Diabetes,517195,Chihuahua
+2016,Diabetes,2251944,Distrito Federal
+2016,Diabetes,236980,Durango
+2016,Diabetes,368795,Guanajuato
+2016,Diabetes,189668,Guerrero
+2016,Diabetes,153988,Hidalgo
+2016,Diabetes,1034163,Jalisco
+2016,Diabetes,1538663,México
+2016,Diabetes,374715,Michoacán
+2016,Diabetes,169177,Morelos
+2016,Diabetes,139909,Nayarit
+2016,Diabetes,1392412,Nuevo León
+2016,Diabetes,135721,Oaxaca
+2016,Diabetes,451941,Puebla
+2016,Diabetes,201159,Querétaro
+2016,Diabetes,207747,Quintana Roo
+2016,Diabetes,343432,San Luis Potosí
+2016,Diabetes,452453,Sinaloa
+2016,Diabetes,455628,Sonora
+2016,Diabetes,190410,Tabasco
+2016,Diabetes,571272,Tamaulipas
+2016,Diabetes,104323,Tlaxcala
+2016,Diabetes,691701,Veracruz
+2016,Diabetes,237037,Yucatán
+2016,Diabetes,64474,Zacatecas
+2017,Diabetes,235856,Aguascalientes
+2017,Diabetes,657032,Baja California
+2017,Diabetes,97552,Baja California Sur
+2017,Diabetes,91410,Campeche
+2017,Diabetes,559638,Coahuila
+2017,Diabetes,113770,Colima
+2017,Diabetes,214459,Chiapas
+2017,Diabetes,461898,Chihuahua
+2017,Diabetes,2211411,Distrito Federal
+2017,Diabetes,232286,Durango
+2017,Diabetes,307771,Guanajuato
+2017,Diabetes,122614,Guerrero
+2017,Diabetes,129073,Hidalgo
+2017,Diabetes,1065592,Jalisco
+2017,Diabetes,1450092,México
+2017,Diabetes,334401,Michoacán
+2017,Diabetes,135485,Morelos
+2017,Diabetes,119736,Nayarit
+2017,Diabetes,1512199,Nuevo León
+2017,Diabetes,131377,Oaxaca
+2017,Diabetes,441609,Puebla
+2017,Diabetes,182286,Querétaro
+2017,Diabetes,174234,Quintana Roo
+2017,Diabetes,342961,San Luis Potosí
+2017,Diabetes,415313,Sinaloa
+2017,Diabetes,440156,Sonora
+2017,Diabetes,153717,Tabasco
+2017,Diabetes,483118,Tamaulipas
+2017,Diabetes,88608,Tlaxcala
+2017,Diabetes,713143,Veracruz
+2017,Diabetes,193051,Yucatán
+2017,Diabetes,71607,Zacatecas
+2018,Diabetes,194442,Aguascalientes
+2018,Diabetes,581767,Baja California
+2018,Diabetes,106368,Baja California Sur
+2018,Diabetes,72631,Campeche
+2018,Diabetes,578930,Coahuila
+2018,Diabetes,110638,Colima
+2018,Diabetes,195738,Chiapas
+2018,Diabetes,388451,Chihuahua
+2018,Diabetes,2263376,Distrito Federal
+2018,Diabetes,247689,Durango
+2018,Diabetes,327972,Guanajuato
+2018,Diabetes,130607,Guerrero
+2018,Diabetes,106400,Hidalgo
+2018,Diabetes,1103796,Jalisco
+2018,Diabetes,1424722,México
+2018,Diabetes,304821,Michoacán
+2018,Diabetes,153693,Morelos
+2018,Diabetes,105228,Nayarit
+2018,Diabetes,1500597,Nuevo León
+2018,Diabetes,126014,Oaxaca
+2018,Diabetes,422246,Puebla
+2018,Diabetes,173383,Querétaro
+2018,Diabetes,184179,Quintana Roo
+2018,Diabetes,321246,San Luis Potosí
+2018,Diabetes,404599,Sinaloa
+2018,Diabetes,388156,Sonora
+2018,Diabetes,140169,Tabasco
+2018,Diabetes,501576,Tamaulipas
+2018,Diabetes,99386,Tlaxcala
+2018,Diabetes,705789,Veracruz
+2018,Diabetes,217296,Yucatán
+2018,Diabetes,74776,Zacatecas
+2019,Diabetes,161409,Aguascalientes
+2019,Diabetes,496810,Baja California
+2019,Diabetes,88486,Baja California Sur
+2019,Diabetes,67295,Campeche
+2019,Diabetes,558629,Coahuila
+2019,Diabetes,97804,Colima
+2019,Diabetes,163974,Chiapas
+2019,Diabetes,362803,Chihuahua
+2019,Diabetes,1988948,Distrito Federal
+2019,Diabetes,237703,Durango
+2019,Diabetes,283830,Guanajuato
+2019,Diabetes,119137,Guerrero
+2019,Diabetes,159631,Hidalgo
+2019,Diabetes,1006087,Jalisco
+2019,Diabetes,1384064,México
+2019,Diabetes,295134,Michoacán
+2019,Diabetes,149250,Morelos
+2019,Diabetes,96658,Nayarit
+2019,Diabetes,1447052,Nuevo León
+2019,Diabetes,125804,Oaxaca
+2019,Diabetes,452568,Puebla
+2019,Diabetes,167325,Querétaro
+2019,Diabetes,184177,Quintana Roo
+2019,Diabetes,249913,San Luis Potosí
+2019,Diabetes,408256,Sinaloa
+2019,Diabetes,369206,Sonora
+2019,Diabetes,128499,Tabasco
+2019,Diabetes,475779,Tamaulipas
+2019,Diabetes,89614,Tlaxcala
+2019,Diabetes,709330,Veracruz
+2019,Diabetes,197624,Yucatán
+2019,Diabetes,67310,Zacatecas
+2020,Diabetes,86265,Aguascalientes
+2020,Diabetes,240628,Baja California
+2020,Diabetes,55146,Baja California Sur
+2020,Diabetes,33898,Campeche
+2020,Diabetes,229403,Coahuila
+2020,Diabetes,57427,Colima
+2020,Diabetes,58405,Chiapas
+2020,Diabetes,188236,Chihuahua
+2020,Diabetes,1166080,Distrito Federal
+2020,Diabetes,138378,Durango
+2020,Diabetes,161048,Guanajuato
+2020,Diabetes,62192,Guerrero
+2020,Diabetes,81643,Hidalgo
+2020,Diabetes,542413,Jalisco
+2020,Diabetes,841972,México
+2020,Diabetes,162597,Michoacán
+2020,Diabetes,112343,Morelos
+2020,Diabetes,63814,Nayarit
+2020,Diabetes,1063843,Nuevo León
+2020,Diabetes,56490,Oaxaca
+2020,Diabetes,334799,Puebla
+2020,Diabetes,97605,Querétaro
+2020,Diabetes,93425,Quintana Roo
+2020,Diabetes,178049,San Luis Potosí
+2020,Diabetes,204571,Sinaloa
+2020,Diabetes,175576,Sonora
+2020,Diabetes,54694,Tabasco
+2020,Diabetes,233389,Tamaulipas
+2020,Diabetes,40421,Tlaxcala
+2020,Diabetes,341919,Veracruz
+2020,Diabetes,79098,Yucatán
+2020,Diabetes,33773,Zacatecas
+2021,Diabetes,134128,Aguascalientes
+2021,Diabetes,403733,Baja California
+2021,Diabetes,80318,Baja California Sur
+2021,Diabetes,67943,Campeche
+2021,Diabetes,394887,Coahuila
+2021,Diabetes,69576,Colima
+2021,Diabetes,114288,Chiapas
+2021,Diabetes,287104,Chihuahua
+2021,Diabetes,1538467,Distrito Federal
+2021,Diabetes,218400,Durango
+2021,Diabetes,275211,Guanajuato
+2021,Diabetes,85201,Guerrero
+2021,Diabetes,124053,Hidalgo
+2021,Diabetes,661122,Jalisco
+2021,Diabetes,1060338,México
+2021,Diabetes,219932,Michoacán
+2021,Diabetes,166301,Morelos
+2021,Diabetes,105031,Nayarit
+2021,Diabetes,1362194,Nuevo León
+2021,Diabetes,87031,Oaxaca
+2021,Diabetes,479501,Puebla
+2021,Diabetes,144451,Querétaro
+2021,Diabetes,166148,Quintana Roo
+2021,Diabetes,291386,San Luis Potosí
+2021,Diabetes,289931,Sinaloa
+2021,Diabetes,269507,Sonora
+2021,Diabetes,88018,Tabasco
+2021,Diabetes,344273,Tamaulipas
+2021,Diabetes,60871,Tlaxcala
+2021,Diabetes,472264,Veracruz
+2021,Diabetes,142331,Yucatán
+2021,Diabetes,54406,Zacatecas
+2022,Diabetes,182988,Aguascalientes
+2022,Diabetes,580768,Baja California
+2022,Diabetes,184251,Baja California Sur
+2022,Diabetes,77430,Campeche
+2022,Diabetes,506748,Coahuila
+2022,Diabetes,92806,Colima
+2022,Diabetes,162042,Chiapas
+2022,Diabetes,391625,Chihuahua
+2022,Diabetes,621115,Distrito Federal
+2022,Diabetes,114338,Durango
+2022,Diabetes,173307,Guanajuato
+2022,Diabetes,903481,Guerrero
+2022,Diabetes,914424,Hidalgo
+2022,Diabetes,542866,Jalisco
+2022,Diabetes,488823,México
+2022,Diabetes,130004,Michoacán
+2022,Diabetes,1352668,Morelos
+2022,Diabetes,121232,Nayarit
+2022,Diabetes,660258,Nuevo León
+2022,Diabetes,192210,Oaxaca
+2022,Diabetes,213536,Puebla
+2022,Diabetes,321855,Querétaro
+2022,Diabetes,444409,Quintana Roo
+2022,Diabetes,313397,San Luis Potosí
+2022,Diabetes,113379,Sinaloa
+2022,Diabetes,457720,Sonora
+2022,Diabetes,87830,Tabasco
+2022,Diabetes,385177,Tamaulipas
+2022,Diabetes,224261,Tlaxcala
+2022,Diabetes,295178,Veracruz
+2022,Diabetes,564962,Yucatán
+2022,Diabetes,1331163,Zacatecas
+2000,Hipertension,86115,Aguascalientes
+2000,Hipertension,177741,Baja California
+2000,Hipertension,33129,Baja California Sur
+2000,Hipertension,41887,Campeche
+2000,Hipertension,244855,Coahuila
+2000,Hipertension,52895,Colima
+2000,Hipertension,104351,Chiapas
+2000,Hipertension,241928,Chihuahua
+2000,Hipertension,866848,Distrito Federal
+2000,Hipertension,141986,Durango
+2000,Hipertension,293559,Guanajuato
+2000,Hipertension,88826,Guerrero
+2000,Hipertension,67122,Hidalgo
+2000,Hipertension,549937,Jalisco
+2000,Hipertension,716948,México
+2000,Hipertension,206082,Michoacán
+2000,Hipertension,98085,Morelos
+2000,Hipertension,51648,Nayarit
+2000,Hipertension,482644,Nuevo León
+2000,Hipertension,84541,Oaxaca
+2000,Hipertension,264512,Puebla
+2000,Hipertension,92167,Querétaro
+2000,Hipertension,72610,Quintana Roo
+2000,Hipertension,96229,San Luis Potosí
+2000,Hipertension,273123,Sinaloa
+2000,Hipertension,192583,Sonora
+2000,Hipertension,70789,Tabasco
+2000,Hipertension,230584,Tamaulipas
+2000,Hipertension,51328,Tlaxcala
+2000,Hipertension,405723,Veracruz
+2000,Hipertension,140416,Yucatán
+2000,Hipertension,73859,Zacatecas
+2001,Hipertension,86470,Aguascalientes
+2001,Hipertension,190507,Baja California
+2001,Hipertension,38349,Baja California Sur
+2001,Hipertension,44928,Campeche
+2001,Hipertension,277398,Coahuila
+2001,Hipertension,54079,Colima
+2001,Hipertension,107994,Chiapas
+2001,Hipertension,261404,Chihuahua
+2001,Hipertension,886402,Distrito Federal
+2001,Hipertension,145399,Durango
+2001,Hipertension,282579,Guanajuato
+2001,Hipertension,95362,Guerrero
+2001,Hipertension,65324,Hidalgo
+2001,Hipertension,536930,Jalisco
+2001,Hipertension,757047,México
+2001,Hipertension,222621,Michoacán
+2001,Hipertension,100070,Morelos
+2001,Hipertension,72727,Nayarit
+2001,Hipertension,491091,Nuevo León
+2001,Hipertension,92632,Oaxaca
+2001,Hipertension,223121,Puebla
+2001,Hipertension,84097,Querétaro
+2001,Hipertension,72448,Quintana Roo
+2001,Hipertension,100001,San Luis Potosí
+2001,Hipertension,245492,Sinaloa
+2001,Hipertension,195850,Sonora
+2001,Hipertension,78804,Tabasco
+2001,Hipertension,250463,Tamaulipas
+2001,Hipertension,58139,Tlaxcala
+2001,Hipertension,357408,Veracruz
+2001,Hipertension,142265,Yucatán
+2001,Hipertension,73999,Zacatecas
+2002,Hipertension,96843,Aguascalientes
+2002,Hipertension,190848,Baja California
+2002,Hipertension,36716,Baja California Sur
+2002,Hipertension,47164,Campeche
+2002,Hipertension,300429,Coahuila
+2002,Hipertension,43538,Colima
+2002,Hipertension,103264,Chiapas
+2002,Hipertension,312059,Chihuahua
+2002,Hipertension,844844,Distrito Federal
+2002,Hipertension,125677,Durango
+2002,Hipertension,270903,Guanajuato
+2002,Hipertension,114956,Guerrero
+2002,Hipertension,74449,Hidalgo
+2002,Hipertension,492549,Jalisco
+2002,Hipertension,741722,México
+2002,Hipertension,188558,Michoacán
+2002,Hipertension,92730,Morelos
+2002,Hipertension,64258,Nayarit
+2002,Hipertension,514789,Nuevo León
+2002,Hipertension,85764,Oaxaca
+2002,Hipertension,211236,Puebla
+2002,Hipertension,90888,Querétaro
+2002,Hipertension,59327,Quintana Roo
+2002,Hipertension,141515,San Luis Potosí
+2002,Hipertension,229446,Sinaloa
+2002,Hipertension,232402,Sonora
+2002,Hipertension,74711,Tabasco
+2002,Hipertension,270038,Tamaulipas
+2002,Hipertension,65877,Tlaxcala
+2002,Hipertension,349095,Veracruz
+2002,Hipertension,152250,Yucatán
+2002,Hipertension,70249,Zacatecas
+2003,Hipertension,129778,Aguascalientes
+2003,Hipertension,285235,Baja California
+2003,Hipertension,44330,Baja California Sur
+2003,Hipertension,70308,Campeche
+2003,Hipertension,470890,Coahuila
+2003,Hipertension,63057,Colima
+2003,Hipertension,128826,Chiapas
+2003,Hipertension,379003,Chihuahua
+2003,Hipertension,1233077,Distrito Federal
+2003,Hipertension,157294,Durango
+2003,Hipertension,369268,Guanajuato
+2003,Hipertension,145135,Guerrero
+2003,Hipertension,171127,Hidalgo
+2003,Hipertension,661998,Jalisco
+2003,Hipertension,1042103,México
+2003,Hipertension,293055,Michoacán
+2003,Hipertension,123194,Morelos
+2003,Hipertension,63947,Nayarit
+2003,Hipertension,661514,Nuevo León
+2003,Hipertension,75068,Oaxaca
+2003,Hipertension,247998,Puebla
+2003,Hipertension,243883,Querétaro
+2003,Hipertension,111093,Quintana Roo
+2003,Hipertension,199536,San Luis Potosí
+2003,Hipertension,298158,Sinaloa
+2003,Hipertension,262850,Sonora
+2003,Hipertension,97669,Tabasco
+2003,Hipertension,299629,Tamaulipas
+2003,Hipertension,60180,Tlaxcala
+2003,Hipertension,546747,Veracruz
+2003,Hipertension,203293,Yucatán
+2003,Hipertension,64935,Zacatecas
+2004,Hipertension,528131,Aguascalientes
+2004,Hipertension,1266539,Baja California
+2004,Hipertension,366581,Baja California Sur
+2004,Hipertension,334545,Campeche
+2004,Hipertension,1763803,Coahuila
+2004,Hipertension,284193,Colima
+2004,Hipertension,527968,Chiapas
+2004,Hipertension,1779298,Chihuahua
+2004,Hipertension,3922367,Distrito Federal
+2004,Hipertension,674984,Durango
+2004,Hipertension,1700198,Guanajuato
+2004,Hipertension,502504,Guerrero
+2004,Hipertension,617061,Hidalgo
+2004,Hipertension,2899975,Jalisco
+2004,Hipertension,4103906,México
+2004,Hipertension,1056693,Michoacán
+2004,Hipertension,664657,Morelos
+2004,Hipertension,337912,Nayarit
+2004,Hipertension,1884665,Nuevo León
+2004,Hipertension,509397,Oaxaca
+2004,Hipertension,1569263,Puebla
+2004,Hipertension,690237,Querétaro
+2004,Hipertension,513706,Quintana Roo
+2004,Hipertension,962247,San Luis Potosí
+2004,Hipertension,1727005,Sinaloa
+2004,Hipertension,992985,Sonora
+2004,Hipertension,306731,Tabasco
+2004,Hipertension,1241757,Tamaulipas
+2004,Hipertension,321873,Tlaxcala
+2004,Hipertension,2603647,Veracruz
+2004,Hipertension,950295,Yucatán
+2004,Hipertension,460406,Zacatecas
+2005,Hipertension,96980,Aguascalientes
+2005,Hipertension,249067,Baja California
+2005,Hipertension,56855,Baja California Sur
+2005,Hipertension,63340,Campeche
+2005,Hipertension,365864,Coahuila
+2005,Hipertension,62070,Colima
+2005,Hipertension,105163,Chiapas
+2005,Hipertension,332970,Chihuahua
+2005,Hipertension,893644,Distrito Federal
+2005,Hipertension,135165,Durango
+2005,Hipertension,342812,Guanajuato
+2005,Hipertension,133060,Guerrero
+2005,Hipertension,113442,Hidalgo
+2005,Hipertension,594718,Jalisco
+2005,Hipertension,909541,México
+2005,Hipertension,206967,Michoacán
+2005,Hipertension,131621,Morelos
+2005,Hipertension,80105,Nayarit
+2005,Hipertension,470580,Nuevo León
+2005,Hipertension,94893,Oaxaca
+2005,Hipertension,294468,Puebla
+2005,Hipertension,127207,Querétaro
+2005,Hipertension,92974,Quintana Roo
+2005,Hipertension,170277,San Luis Potosí
+2005,Hipertension,286875,Sinaloa
+2005,Hipertension,221904,Sonora
+2005,Hipertension,72304,Tabasco
+2005,Hipertension,249222,Tamaulipas
+2005,Hipertension,64125,Tlaxcala
+2005,Hipertension,552339,Veracruz
+2005,Hipertension,198204,Yucatán
+2005,Hipertension,95571,Zacatecas
+2006,Hipertension,104359,Aguascalientes
+2006,Hipertension,266435,Baja California
+2006,Hipertension,64864,Baja California Sur
+2006,Hipertension,67416,Campeche
+2006,Hipertension,362275,Coahuila
+2006,Hipertension,62670,Colima
+2006,Hipertension,113461,Chiapas
+2006,Hipertension,333521,Chihuahua
+2006,Hipertension,822081,Distrito Federal
+2006,Hipertension,135180,Durango
+2006,Hipertension,363322,Guanajuato
+2006,Hipertension,140123,Guerrero
+2006,Hipertension,113198,Hidalgo
+2006,Hipertension,606756,Jalisco
+2006,Hipertension,941696,México
+2006,Hipertension,204467,Michoacán
+2006,Hipertension,127308,Morelos
+2006,Hipertension,84515,Nayarit
+2006,Hipertension,538905,Nuevo León
+2006,Hipertension,93439,Oaxaca
+2006,Hipertension,284798,Puebla
+2006,Hipertension,129073,Querétaro
+2006,Hipertension,107562,Quintana Roo
+2006,Hipertension,163067,San Luis Potosí
+2006,Hipertension,280789,Sinaloa
+2006,Hipertension,231914,Sonora
+2006,Hipertension,79210,Tabasco
+2006,Hipertension,287269,Tamaulipas
+2006,Hipertension,63408,Tlaxcala
+2006,Hipertension,518215,Veracruz
+2006,Hipertension,194859,Yucatán
+2006,Hipertension,78096,Zacatecas
+2007,Hipertension,65613,Aguascalientes
+2007,Hipertension,192236,Baja California
+2007,Hipertension,41888,Baja California Sur
+2007,Hipertension,42206,Campeche
+2007,Hipertension,225518,Coahuila
+2007,Hipertension,39920,Colima
+2007,Hipertension,116521,Chiapas
+2007,Hipertension,197576,Chihuahua
+2007,Hipertension,559010,Distrito Federal
+2007,Hipertension,99159,Durango
+2007,Hipertension,294177,Guanajuato
+2007,Hipertension,136487,Guerrero
+2007,Hipertension,72235,Hidalgo
+2007,Hipertension,471647,Jalisco
+2007,Hipertension,638148,México
+2007,Hipertension,180419,Michoacán
+2007,Hipertension,78212,Morelos
+2007,Hipertension,72446,Nayarit
+2007,Hipertension,286572,Nuevo León
+2007,Hipertension,55098,Oaxaca
+2007,Hipertension,160158,Puebla
+2007,Hipertension,108082,Querétaro
+2007,Hipertension,77033,Quintana Roo
+2007,Hipertension,124622,San Luis Potosí
+2007,Hipertension,137501,Sinaloa
+2007,Hipertension,162501,Sonora
+2007,Hipertension,58134,Tabasco
+2007,Hipertension,183559,Tamaulipas
+2007,Hipertension,47377,Tlaxcala
+2007,Hipertension,381934,Veracruz
+2007,Hipertension,105264,Yucatán
+2007,Hipertension,37293,Zacatecas
+2008,Hipertension,110398,Aguascalientes
+2008,Hipertension,274282,Baja California
+2008,Hipertension,61282,Baja California Sur
+2008,Hipertension,36929,Campeche
+2008,Hipertension,264607,Coahuila
+2008,Hipertension,50683,Colima
+2008,Hipertension,151370,Chiapas
+2008,Hipertension,210369,Chihuahua
+2008,Hipertension,954031,Distrito Federal
+2008,Hipertension,104142,Durango
+2008,Hipertension,304577,Guanajuato
+2008,Hipertension,139248,Guerrero
+2008,Hipertension,74451,Hidalgo
+2008,Hipertension,602171,Jalisco
+2008,Hipertension,666577,México
+2008,Hipertension,230012,Michoacán
+2008,Hipertension,86849,Morelos
+2008,Hipertension,66017,Nayarit
+2008,Hipertension,501691,Nuevo León
+2008,Hipertension,82596,Oaxaca
+2008,Hipertension,313852,Puebla
+2008,Hipertension,170312,Querétaro
+2008,Hipertension,76046,Quintana Roo
+2008,Hipertension,171143,San Luis Potosí
+2008,Hipertension,167353,Sinaloa
+2008,Hipertension,195494,Sonora
+2008,Hipertension,72430,Tabasco
+2008,Hipertension,241111,Tamaulipas
+2008,Hipertension,52155,Tlaxcala
+2008,Hipertension,448034,Veracruz
+2008,Hipertension,126560,Yucatán
+2008,Hipertension,37065,Zacatecas
+2009,Hipertension,120258,Aguascalientes
+2009,Hipertension,246063,Baja California
+2009,Hipertension,62594,Baja California Sur
+2009,Hipertension,39969,Campeche
+2009,Hipertension,289983,Coahuila
+2009,Hipertension,60331,Colima
+2009,Hipertension,170919,Chiapas
+2009,Hipertension,229386,Chihuahua
+2009,Hipertension,1068104,Distrito Federal
+2009,Hipertension,146280,Durango
+2009,Hipertension,379942,Guanajuato
+2009,Hipertension,158133,Guerrero
+2009,Hipertension,78427,Hidalgo
+2009,Hipertension,517668,Jalisco
+2009,Hipertension,764422,México
+2009,Hipertension,215660,Michoacán
+2009,Hipertension,127784,Morelos
+2009,Hipertension,64575,Nayarit
+2009,Hipertension,557365,Nuevo León
+2009,Hipertension,73218,Oaxaca
+2009,Hipertension,340171,Puebla
+2009,Hipertension,141763,Querétaro
+2009,Hipertension,102298,Quintana Roo
+2009,Hipertension,168704,San Luis Potosí
+2009,Hipertension,200090,Sinaloa
+2009,Hipertension,231844,Sonora
+2009,Hipertension,69749,Tabasco
+2009,Hipertension,261861,Tamaulipas
+2009,Hipertension,58929,Tlaxcala
+2009,Hipertension,414932,Veracruz
+2009,Hipertension,146282,Yucatán
+2009,Hipertension,43722,Zacatecas
+2010,Hipertension,140893,Aguascalientes
+2010,Hipertension,312758,Baja California
+2010,Hipertension,92767,Baja California Sur
+2010,Hipertension,67600,Campeche
+2010,Hipertension,340710,Coahuila
+2010,Hipertension,71544,Colima
+2010,Hipertension,178676,Chiapas
+2010,Hipertension,251176,Chihuahua
+2010,Hipertension,1053685,Distrito Federal
+2010,Hipertension,196668,Durango
+2010,Hipertension,402472,Guanajuato
+2010,Hipertension,157374,Guerrero
+2010,Hipertension,102512,Hidalgo
+2010,Hipertension,650256,Jalisco
+2010,Hipertension,1002526,México
+2010,Hipertension,212781,Michoacán
+2010,Hipertension,183185,Morelos
+2010,Hipertension,83034,Nayarit
+2010,Hipertension,756967,Nuevo León
+2010,Hipertension,95617,Oaxaca
+2010,Hipertension,390937,Puebla
+2010,Hipertension,156731,Querétaro
+2010,Hipertension,105165,Quintana Roo
+2010,Hipertension,194530,San Luis Potosí
+2010,Hipertension,231808,Sinaloa
+2010,Hipertension,233885,Sonora
+2010,Hipertension,74439,Tabasco
+2010,Hipertension,371127,Tamaulipas
+2010,Hipertension,63026,Tlaxcala
+2010,Hipertension,498679,Veracruz
+2010,Hipertension,171719,Yucatán
+2010,Hipertension,56585,Zacatecas
+2011,Hipertension,163207,Aguascalientes
+2011,Hipertension,391910,Baja California
+2011,Hipertension,96239,Baja California Sur
+2011,Hipertension,69687,Campeche
+2011,Hipertension,390250,Coahuila
+2011,Hipertension,82829,Colima
+2011,Hipertension,170402,Chiapas
+2011,Hipertension,349362,Chihuahua
+2011,Hipertension,1214083,Distrito Federal
+2011,Hipertension,253164,Durango
+2011,Hipertension,412091,Guanajuato
+2011,Hipertension,166615,Guerrero
+2011,Hipertension,140287,Hidalgo
+2011,Hipertension,792121,Jalisco
+2011,Hipertension,1279215,México
+2011,Hipertension,225902,Michoacán
+2011,Hipertension,204615,Morelos
+2011,Hipertension,110108,Nayarit
+2011,Hipertension,836729,Nuevo León
+2011,Hipertension,127169,Oaxaca
+2011,Hipertension,392399,Puebla
+2011,Hipertension,176531,Querétaro
+2011,Hipertension,82951,Quintana Roo
+2011,Hipertension,204998,San Luis Potosí
+2011,Hipertension,334832,Sinaloa
+2011,Hipertension,296642,Sonora
+2011,Hipertension,72047,Tabasco
+2011,Hipertension,364551,Tamaulipas
+2011,Hipertension,71132,Tlaxcala
+2011,Hipertension,521952,Veracruz
+2011,Hipertension,183302,Yucatán
+2011,Hipertension,61190,Zacatecas
+2012,Hipertension,196970,Aguascalientes
+2012,Hipertension,538757,Baja California
+2012,Hipertension,115209,Baja California Sur
+2012,Hipertension,77536,Campeche
+2012,Hipertension,441006,Coahuila
+2012,Hipertension,101134,Colima
+2012,Hipertension,179945,Chiapas
+2012,Hipertension,428073,Chihuahua
+2012,Hipertension,1346485,Distrito Federal
+2012,Hipertension,279808,Durango
+2012,Hipertension,441834,Guanajuato
+2012,Hipertension,161940,Guerrero
+2012,Hipertension,175334,Hidalgo
+2012,Hipertension,915947,Jalisco
+2012,Hipertension,1632639,México
+2012,Hipertension,260343,Michoacán
+2012,Hipertension,207423,Morelos
+2012,Hipertension,116921,Nayarit
+2012,Hipertension,956185,Nuevo León
+2012,Hipertension,129013,Oaxaca
+2012,Hipertension,384041,Puebla
+2012,Hipertension,181138,Querétaro
+2012,Hipertension,100259,Quintana Roo
+2012,Hipertension,216483,San Luis Potosí
+2012,Hipertension,385231,Sinaloa
+2012,Hipertension,347072,Sonora
+2012,Hipertension,106256,Tabasco
+2012,Hipertension,391494,Tamaulipas
+2012,Hipertension,78068,Tlaxcala
+2012,Hipertension,606709,Veracruz
+2012,Hipertension,223212,Yucatán
+2012,Hipertension,60976,Zacatecas
+2013,Hipertension,168933,Aguascalientes
+2013,Hipertension,527778,Baja California
+2013,Hipertension,121762,Baja California Sur
+2013,Hipertension,85037,Campeche
+2013,Hipertension,448588,Coahuila
+2013,Hipertension,87020,Colima
+2013,Hipertension,183905,Chiapas
+2013,Hipertension,424368,Chihuahua
+2013,Hipertension,1388108,Distrito Federal
+2013,Hipertension,275521,Durango
+2013,Hipertension,414109,Guanajuato
+2013,Hipertension,159840,Guerrero
+2013,Hipertension,171493,Hidalgo
+2013,Hipertension,954070,Jalisco
+2013,Hipertension,1585014,México
+2013,Hipertension,253864,Michoacán
+2013,Hipertension,191004,Morelos
+2013,Hipertension,121193,Nayarit
+2013,Hipertension,1082555,Nuevo León
+2013,Hipertension,122572,Oaxaca
+2013,Hipertension,374821,Puebla
+2013,Hipertension,186990,Querétaro
+2013,Hipertension,102974,Quintana Roo
+2013,Hipertension,229295,San Luis Potosí
+2013,Hipertension,402451,Sinaloa
+2013,Hipertension,359681,Sonora
+2013,Hipertension,115702,Tabasco
+2013,Hipertension,461172,Tamaulipas
+2013,Hipertension,75209,Tlaxcala
+2013,Hipertension,564230,Veracruz
+2013,Hipertension,210121,Yucatán
+2013,Hipertension,61687,Zacatecas
+2014,Hipertension,176456,Aguascalientes
+2014,Hipertension,509785,Baja California
+2014,Hipertension,103563,Baja California Sur
+2014,Hipertension,81052,Campeche
+2014,Hipertension,394544,Coahuila
+2014,Hipertension,93106,Colima
+2014,Hipertension,180896,Chiapas
+2014,Hipertension,413624,Chihuahua
+2014,Hipertension,1335567,Distrito Federal
+2014,Hipertension,209617,Durango
+2014,Hipertension,334067,Guanajuato
+2014,Hipertension,157145,Guerrero
+2014,Hipertension,163800,Hidalgo
+2014,Hipertension,922120,Jalisco
+2014,Hipertension,1475568,México
+2014,Hipertension,230561,Michoacán
+2014,Hipertension,155791,Morelos
+2014,Hipertension,119546,Nayarit
+2014,Hipertension,1041159,Nuevo León
+2014,Hipertension,127181,Oaxaca
+2014,Hipertension,338234,Puebla
+2014,Hipertension,185287,Querétaro
+2014,Hipertension,113085,Quintana Roo
+2014,Hipertension,283207,San Luis Potosí
+2014,Hipertension,315301,Sinaloa
+2014,Hipertension,323917,Sonora
+2014,Hipertension,107178,Tabasco
+2014,Hipertension,445122,Tamaulipas
+2014,Hipertension,76631,Tlaxcala
+2014,Hipertension,515315,Veracruz
+2014,Hipertension,207178,Yucatán
+2014,Hipertension,62210,Zacatecas
+2015,Hipertension,201410,Aguascalientes
+2015,Hipertension,566390,Baja California
+2015,Hipertension,97565,Baja California Sur
+2015,Hipertension,85993,Campeche
+2015,Hipertension,464005,Coahuila
+2015,Hipertension,98868,Colima
+2015,Hipertension,204783,Chiapas
+2015,Hipertension,416534,Chihuahua
+2015,Hipertension,1557804,Distrito Federal
+2015,Hipertension,199834,Durango
+2015,Hipertension,326205,Guanajuato
+2015,Hipertension,183165,Guerrero
+2015,Hipertension,166998,Hidalgo
+2015,Hipertension,969930,Jalisco
+2015,Hipertension,1585422,México
+2015,Hipertension,287868,Michoacán
+2015,Hipertension,111280,Morelos
+2015,Hipertension,134709,Nayarit
+2015,Hipertension,1183004,Nuevo León
+2015,Hipertension,133215,Oaxaca
+2015,Hipertension,535152,Puebla
+2015,Hipertension,186260,Querétaro
+2015,Hipertension,153642,Quintana Roo
+2015,Hipertension,306467,San Luis Potosí
+2015,Hipertension,369367,Sinaloa
+2015,Hipertension,396684,Sonora
+2015,Hipertension,131834,Tabasco
+2015,Hipertension,472063,Tamaulipas
+2015,Hipertension,83669,Tlaxcala
+2015,Hipertension,733536,Veracruz
+2015,Hipertension,226953,Yucatán
+2015,Hipertension,69607,Zacatecas
+2016,Hipertension,194528,Aguascalientes
+2016,Hipertension,497872,Baja California
+2016,Hipertension,109267,Baja California Sur
+2016,Hipertension,102531,Campeche
+2016,Hipertension,494213,Coahuila
+2016,Hipertension,104281,Colima
+2016,Hipertension,196324,Chiapas
+2016,Hipertension,441229,Chihuahua
+2016,Hipertension,1625145,Distrito Federal
+2016,Hipertension,205215,Durango
+2016,Hipertension,352408,Guanajuato
+2016,Hipertension,183311,Guerrero
+2016,Hipertension,153793,Hidalgo
+2016,Hipertension,955150,Jalisco
+2016,Hipertension,1396229,México
+2016,Hipertension,304004,Michoacán
+2016,Hipertension,153207,Morelos
+2016,Hipertension,123136,Nayarit
+2016,Hipertension,1230447,Nuevo León
+2016,Hipertension,135765,Oaxaca
+2016,Hipertension,476164,Puebla
+2016,Hipertension,191887,Querétaro
+2016,Hipertension,215811,Quintana Roo
+2016,Hipertension,321375,San Luis Potosí
+2016,Hipertension,380072,Sinaloa
+2016,Hipertension,374011,Sonora
+2016,Hipertension,156694,Tabasco
+2016,Hipertension,488045,Tamaulipas
+2016,Hipertension,92242,Tlaxcala
+2016,Hipertension,716992,Veracruz
+2016,Hipertension,244647,Yucatán
+2016,Hipertension,55866,Zacatecas
+2017,Hipertension,211310,Aguascalientes
+2017,Hipertension,546495,Baja California
+2017,Hipertension,101991,Baja California Sur
+2017,Hipertension,94881,Campeche
+2017,Hipertension,516598,Coahuila
+2017,Hipertension,109007,Colima
+2017,Hipertension,192911,Chiapas
+2017,Hipertension,406442,Chihuahua
+2017,Hipertension,1659190,Distrito Federal
+2017,Hipertension,207568,Durango
+2017,Hipertension,326085,Guanajuato
+2017,Hipertension,164406,Guerrero
+2017,Hipertension,150396,Hidalgo
+2017,Hipertension,953661,Jalisco
+2017,Hipertension,1352948,México
+2017,Hipertension,291359,Michoacán
+2017,Hipertension,141104,Morelos
+2017,Hipertension,115046,Nayarit
+2017,Hipertension,1323796,Nuevo León
+2017,Hipertension,132630,Oaxaca
+2017,Hipertension,425160,Puebla
+2017,Hipertension,204998,Querétaro
+2017,Hipertension,200579,Quintana Roo
+2017,Hipertension,310434,San Luis Potosí
+2017,Hipertension,367065,Sinaloa
+2017,Hipertension,383108,Sonora
+2017,Hipertension,151328,Tabasco
+2017,Hipertension,437818,Tamaulipas
+2017,Hipertension,88358,Tlaxcala
+2017,Hipertension,733011,Veracruz
+2017,Hipertension,228147,Yucatán
+2017,Hipertension,65478,Zacatecas
+2018,Hipertension,185357,Aguascalientes
+2018,Hipertension,512157,Baja California
+2018,Hipertension,105735,Baja California Sur
+2018,Hipertension,79592,Campeche
+2018,Hipertension,528650,Coahuila
+2018,Hipertension,108561,Colima
+2018,Hipertension,185940,Chiapas
+2018,Hipertension,348219,Chihuahua
+2018,Hipertension,1706648,Distrito Federal
+2018,Hipertension,220172,Durango
+2018,Hipertension,340449,Guanajuato
+2018,Hipertension,149926,Guerrero
+2018,Hipertension,106540,Hidalgo
+2018,Hipertension,992035,Jalisco
+2018,Hipertension,1265711,México
+2018,Hipertension,280214,Michoacán
+2018,Hipertension,147855,Morelos
+2018,Hipertension,101418,Nayarit
+2018,Hipertension,1230481,Nuevo León
+2018,Hipertension,128741,Oaxaca
+2018,Hipertension,411382,Puebla
+2018,Hipertension,193087,Querétaro
+2018,Hipertension,200660,Quintana Roo
+2018,Hipertension,303288,San Luis Potosí
+2018,Hipertension,352352,Sinaloa
+2018,Hipertension,354032,Sonora
+2018,Hipertension,150103,Tabasco
+2018,Hipertension,441678,Tamaulipas
+2018,Hipertension,89937,Tlaxcala
+2018,Hipertension,683102,Veracruz
+2018,Hipertension,231902,Yucatán
+2018,Hipertension,66356,Zacatecas
+2019,Hipertension,159131,Aguascalientes
+2019,Hipertension,448345,Baja California
+2019,Hipertension,97436,Baja California Sur
+2019,Hipertension,77821,Campeche
+2019,Hipertension,513810,Coahuila
+2019,Hipertension,98161,Colima
+2019,Hipertension,161560,Chiapas
+2019,Hipertension,330930,Chihuahua
+2019,Hipertension,1496012,Distrito Federal
+2019,Hipertension,209530,Durango
+2019,Hipertension,283916,Guanajuato
+2019,Hipertension,150271,Guerrero
+2019,Hipertension,155011,Hidalgo
+2019,Hipertension,960147,Jalisco
+2019,Hipertension,1238981,México
+2019,Hipertension,269699,Michoacán
+2019,Hipertension,152827,Morelos
+2019,Hipertension,101101,Nayarit
+2019,Hipertension,1324738,Nuevo León
+2019,Hipertension,131877,Oaxaca
+2019,Hipertension,437769,Puebla
+2019,Hipertension,179526,Querétaro
+2019,Hipertension,178072,Quintana Roo
+2019,Hipertension,263558,San Luis Potosí
+2019,Hipertension,342670,Sinaloa
+2019,Hipertension,345042,Sonora
+2019,Hipertension,143189,Tabasco
+2019,Hipertension,426523,Tamaulipas
+2019,Hipertension,88029,Tlaxcala
+2019,Hipertension,679091,Veracruz
+2019,Hipertension,209607,Yucatán
+2019,Hipertension,60473,Zacatecas
+2020,Hipertension,73165,Aguascalientes
+2020,Hipertension,221926,Baja California
+2020,Hipertension,41405,Baja California Sur
+2020,Hipertension,44174,Campeche
+2020,Hipertension,204411,Coahuila
+2020,Hipertension,56776,Colima
+2020,Hipertension,68202,Chiapas
+2020,Hipertension,168534,Chihuahua
+2020,Hipertension,875405,Distrito Federal
+2020,Hipertension,116998,Durango
+2020,Hipertension,149844,Guanajuato
+2020,Hipertension,80979,Guerrero
+2020,Hipertension,78444,Hidalgo
+2020,Hipertension,525697,Jalisco
+2020,Hipertension,743621,México
+2020,Hipertension,137027,Michoacán
+2020,Hipertension,102788,Morelos
+2020,Hipertension,63001,Nayarit
+2020,Hipertension,983634,Nuevo León
+2020,Hipertension,59695,Oaxaca
+2020,Hipertension,311504,Puebla
+2020,Hipertension,103801,Querétaro
+2020,Hipertension,81611,Quintana Roo
+2020,Hipertension,174446,San Luis Potosí
+2020,Hipertension,164824,Sinaloa
+2020,Hipertension,168496,Sonora
+2020,Hipertension,52835,Tabasco
+2020,Hipertension,204242,Tamaulipas
+2020,Hipertension,41669,Tlaxcala
+2020,Hipertension,322547,Veracruz
+2020,Hipertension,77909,Yucatán
+2020,Hipertension,30026,Zacatecas
+2021,Hipertension,114433,Aguascalientes
+2021,Hipertension,352180,Baja California
+2021,Hipertension,58909,Baja California Sur
+2021,Hipertension,72423,Campeche
+2021,Hipertension,348884,Coahuila
+2021,Hipertension,67946,Colima
+2021,Hipertension,107954,Chiapas
+2021,Hipertension,238758,Chihuahua
+2021,Hipertension,1220976,Distrito Federal
+2021,Hipertension,185951,Durango
+2021,Hipertension,239910,Guanajuato
+2021,Hipertension,101451,Guerrero
+2021,Hipertension,117528,Hidalgo
+2021,Hipertension,630877,Jalisco
+2021,Hipertension,944623,México
+2021,Hipertension,205114,Michoacán
+2021,Hipertension,207043,Morelos
+2021,Hipertension,95304,Nayarit
+2021,Hipertension,1340925,Nuevo León
+2021,Hipertension,89650,Oaxaca
+2021,Hipertension,412676,Puebla
+2021,Hipertension,149732,Querétaro
+2021,Hipertension,155611,Quintana Roo
+2021,Hipertension,267322,San Luis Potosí
+2021,Hipertension,229373,Sinaloa
+2021,Hipertension,244162,Sonora
+2021,Hipertension,80534,Tabasco
+2021,Hipertension,310505,Tamaulipas
+2021,Hipertension,59705,Tlaxcala
+2021,Hipertension,435501,Veracruz
+2021,Hipertension,133583,Yucatán
+2021,Hipertension,48133,Zacatecas
+2022,Hipertension,160928,Aguascalientes
+2022,Hipertension,524056,Baja California
+2022,Hipertension,154212,Baja California Sur
+2022,Hipertension,90236,Campeche
+2022,Hipertension,457513,Coahuila
+2022,Hipertension,95098,Colima
+2022,Hipertension,133547,Chiapas
+2022,Hipertension,327233,Chihuahua
+2022,Hipertension,524195,Distrito Federal
+2022,Hipertension,126915,Durango
+2022,Hipertension,161084,Guanajuato
+2022,Hipertension,830388,Guerrero
+2022,Hipertension,843952,Hidalgo
+2022,Hipertension,476910,Jalisco
+2022,Hipertension,470902,México
+2022,Hipertension,119559,Michoacán
+2022,Hipertension,1299018,Morelos
+2022,Hipertension,121384,Nayarit
+2022,Hipertension,588798,Nuevo León
+2022,Hipertension,209610,Oaxaca
+2022,Hipertension,193336,Puebla
+2022,Hipertension,293176,Querétaro
+2022,Hipertension,365352,Quintana Roo
+2022,Hipertension,284614,San Luis Potosí
+2022,Hipertension,105978,Sinaloa
+2022,Hipertension,410847,Sonora
+2022,Hipertension,83774,Tabasco
+2022,Hipertension,352064,Tamaulipas
+2022,Hipertension,223099,Tlaxcala
+2022,Hipertension,269420,Veracruz
+2022,Hipertension,473541,Yucatán
+2022,Hipertension,1117895,Zacatecas
+2000,Tuberculosis,7349,Aguascalientes
+2000,Tuberculosis,11284,Baja California
+2000,Tuberculosis,3366,Baja California Sur
+2000,Tuberculosis,3515,Campeche
+2000,Tuberculosis,18730,Coahuila
+2000,Tuberculosis,5338,Colima
+2000,Tuberculosis,10897,Chiapas
+2000,Tuberculosis,30410,Chihuahua
+2000,Tuberculosis,52578,Distrito Federal
+2000,Tuberculosis,10237,Durango
+2000,Tuberculosis,16251,Guanajuato
+2000,Tuberculosis,11560,Guerrero
+2000,Tuberculosis,6128,Hidalgo
+2000,Tuberculosis,34792,Jalisco
+2000,Tuberculosis,41576,México
+2000,Tuberculosis,10299,Michoacán
+2000,Tuberculosis,11630,Morelos
+2000,Tuberculosis,6559,Nayarit
+2000,Tuberculosis,29978,Nuevo León
+2000,Tuberculosis,7546,Oaxaca
+2000,Tuberculosis,13154,Puebla
+2000,Tuberculosis,7586,Querétaro
+2000,Tuberculosis,4869,Quintana Roo
+2000,Tuberculosis,8731,San Luis Potosí
+2000,Tuberculosis,16980,Sinaloa
+2000,Tuberculosis,13196,Sonora
+2000,Tuberculosis,4353,Tabasco
+2000,Tuberculosis,24888,Tamaulipas
+2000,Tuberculosis,2497,Tlaxcala
+2000,Tuberculosis,39600,Veracruz
+2000,Tuberculosis,4311,Yucatán
+2000,Tuberculosis,4181,Zacatecas
+2001,Tuberculosis,6904,Aguascalientes
+2001,Tuberculosis,12771,Baja California
+2001,Tuberculosis,3546,Baja California Sur
+2001,Tuberculosis,3766,Campeche
+2001,Tuberculosis,14460,Coahuila
+2001,Tuberculosis,5111,Colima
+2001,Tuberculosis,10934,Chiapas
+2001,Tuberculosis,29238,Chihuahua
+2001,Tuberculosis,42238,Distrito Federal
+2001,Tuberculosis,10011,Durango
+2001,Tuberculosis,15619,Guanajuato
+2001,Tuberculosis,14736,Guerrero
+2001,Tuberculosis,6848,Hidalgo
+2001,Tuberculosis,35593,Jalisco
+2001,Tuberculosis,34798,México
+2001,Tuberculosis,9269,Michoacán
+2001,Tuberculosis,10323,Morelos
+2001,Tuberculosis,5464,Nayarit
+2001,Tuberculosis,31978,Nuevo León
+2001,Tuberculosis,8803,Oaxaca
+2001,Tuberculosis,11443,Puebla
+2001,Tuberculosis,6721,Querétaro
+2001,Tuberculosis,3453,Quintana Roo
+2001,Tuberculosis,8184,San Luis Potosí
+2001,Tuberculosis,14523,Sinaloa
+2001,Tuberculosis,13145,Sonora
+2001,Tuberculosis,6463,Tabasco
+2001,Tuberculosis,26046,Tamaulipas
+2001,Tuberculosis,4094,Tlaxcala
+2001,Tuberculosis,38316,Veracruz
+2001,Tuberculosis,4319,Yucatán
+2001,Tuberculosis,5282,Zacatecas
+2002,Tuberculosis,5582,Aguascalientes
+2002,Tuberculosis,9594,Baja California
+2002,Tuberculosis,2528,Baja California Sur
+2002,Tuberculosis,3682,Campeche
+2002,Tuberculosis,16324,Coahuila
+2002,Tuberculosis,4052,Colima
+2002,Tuberculosis,9165,Chiapas
+2002,Tuberculosis,23865,Chihuahua
+2002,Tuberculosis,33457,Distrito Federal
+2002,Tuberculosis,9641,Durango
+2002,Tuberculosis,12874,Guanajuato
+2002,Tuberculosis,9710,Guerrero
+2002,Tuberculosis,7697,Hidalgo
+2002,Tuberculosis,26199,Jalisco
+2002,Tuberculosis,25537,México
+2002,Tuberculosis,9015,Michoacán
+2002,Tuberculosis,7357,Morelos
+2002,Tuberculosis,3643,Nayarit
+2002,Tuberculosis,26265,Nuevo León
+2002,Tuberculosis,7693,Oaxaca
+2002,Tuberculosis,9153,Puebla
+2002,Tuberculosis,5666,Querétaro
+2002,Tuberculosis,3776,Quintana Roo
+2002,Tuberculosis,9173,San Luis Potosí
+2002,Tuberculosis,12861,Sinaloa
+2002,Tuberculosis,8271,Sonora
+2002,Tuberculosis,5103,Tabasco
+2002,Tuberculosis,19636,Tamaulipas
+2002,Tuberculosis,3302,Tlaxcala
+2002,Tuberculosis,31811,Veracruz
+2002,Tuberculosis,2858,Yucatán
+2002,Tuberculosis,4341,Zacatecas
+2003,Tuberculosis,5262,Aguascalientes
+2003,Tuberculosis,7872,Baja California
+2003,Tuberculosis,2501,Baja California Sur
+2003,Tuberculosis,2930,Campeche
+2003,Tuberculosis,15694,Coahuila
+2003,Tuberculosis,3325,Colima
+2003,Tuberculosis,6085,Chiapas
+2003,Tuberculosis,18634,Chihuahua
+2003,Tuberculosis,28383,Distrito Federal
+2003,Tuberculosis,9118,Durango
+2003,Tuberculosis,13282,Guanajuato
+2003,Tuberculosis,7773,Guerrero
+2003,Tuberculosis,6317,Hidalgo
+2003,Tuberculosis,24278,Jalisco
+2003,Tuberculosis,31751,México
+2003,Tuberculosis,7419,Michoacán
+2003,Tuberculosis,4945,Morelos
+2003,Tuberculosis,2497,Nayarit
+2003,Tuberculosis,27700,Nuevo León
+2003,Tuberculosis,3733,Oaxaca
+2003,Tuberculosis,8034,Puebla
+2003,Tuberculosis,6418,Querétaro
+2003,Tuberculosis,3705,Quintana Roo
+2003,Tuberculosis,2603,San Luis Potosí
+2003,Tuberculosis,12162,Sinaloa
+2003,Tuberculosis,10102,Sonora
+2003,Tuberculosis,3449,Tabasco
+2003,Tuberculosis,16074,Tamaulipas
+2003,Tuberculosis,2271,Tlaxcala
+2003,Tuberculosis,31587,Veracruz
+2003,Tuberculosis,3715,Yucatán
+2003,Tuberculosis,3147,Zacatecas
+2004,Tuberculosis,15794,Aguascalientes
+2004,Tuberculosis,4199,Baja California
+2004,Tuberculosis,2665,Baja California Sur
+2004,Tuberculosis,1743,Campeche
+2004,Tuberculosis,5522,Coahuila
+2004,Tuberculosis,4283,Colima
+2004,Tuberculosis,1817,Chiapas
+2004,Tuberculosis,3168,Chihuahua
+2004,Tuberculosis,13688,Distrito Federal
+2004,Tuberculosis,4142,Durango
+2004,Tuberculosis,5917,Guanajuato
+2004,Tuberculosis,4323,Guerrero
+2004,Tuberculosis,895,Hidalgo
+2004,Tuberculosis,14903,Jalisco
+2004,Tuberculosis,17370,México
+2004,Tuberculosis,2558,Michoacán
+2004,Tuberculosis,1798,Morelos
+2004,Tuberculosis,750,Nayarit
+2004,Tuberculosis,12254,Nuevo León
+2004,Tuberculosis,2110,Oaxaca
+2004,Tuberculosis,17595,Puebla
+2004,Tuberculosis,6454,Querétaro
+2004,Tuberculosis,2311,Quintana Roo
+2004,Tuberculosis,2172,San Luis Potosí
+2004,Tuberculosis,6047,Sinaloa
+2004,Tuberculosis,5333,Sonora
+2004,Tuberculosis,1107,Tabasco
+2004,Tuberculosis,7528,Tamaulipas
+2004,Tuberculosis,333,Tlaxcala
+2004,Tuberculosis,16898,Veracruz
+2004,Tuberculosis,1864,Yucatán
+2004,Tuberculosis,829,Zacatecas
+2005,Tuberculosis,9258,Aguascalientes
+2005,Tuberculosis,3320,Baja California
+2005,Tuberculosis,1840,Baja California Sur
+2005,Tuberculosis,3062,Campeche
+2005,Tuberculosis,20138,Coahuila
+2005,Tuberculosis,1412,Colima
+2005,Tuberculosis,1332,Chiapas
+2005,Tuberculosis,7386,Chihuahua
+2005,Tuberculosis,41542,Distrito Federal
+2005,Tuberculosis,5728,Durango
+2005,Tuberculosis,21476,Guanajuato
+2005,Tuberculosis,9896,Guerrero
+2005,Tuberculosis,614,Hidalgo
+2005,Tuberculosis,15855,Jalisco
+2005,Tuberculosis,24617,México
+2005,Tuberculosis,4648,Michoacán
+2005,Tuberculosis,2132,Morelos
+2005,Tuberculosis,1078,Nayarit
+2005,Tuberculosis,24626,Nuevo León
+2005,Tuberculosis,732,Oaxaca
+2005,Tuberculosis,18974,Puebla
+2005,Tuberculosis,4214,Querétaro
+2005,Tuberculosis,3651,Quintana Roo
+2005,Tuberculosis,10174,San Luis Potosí
+2005,Tuberculosis,19289,Sinaloa
+2005,Tuberculosis,3972,Sonora
+2005,Tuberculosis,5385,Tabasco
+2005,Tuberculosis,12469,Tamaulipas
+2005,Tuberculosis,263,Tlaxcala
+2005,Tuberculosis,20342,Veracruz
+2005,Tuberculosis,2070,Yucatán
+2005,Tuberculosis,469,Zacatecas
+2006,Tuberculosis,27562,Aguascalientes
+2006,Tuberculosis,30539,Baja California
+2006,Tuberculosis,10945,Baja California Sur
+2006,Tuberculosis,10546,Campeche
+2006,Tuberculosis,118913,Coahuila
+2006,Tuberculosis,7003,Colima
+2006,Tuberculosis,41780,Chiapas
+2006,Tuberculosis,66324,Chihuahua
+2006,Tuberculosis,179073,Distrito Federal
+2006,Tuberculosis,52377,Durango
+2006,Tuberculosis,87520,Guanajuato
+2006,Tuberculosis,14844,Guerrero
+2006,Tuberculosis,34917,Hidalgo
+2006,Tuberculosis,104611,Jalisco
+2006,Tuberculosis,155950,México
+2006,Tuberculosis,21799,Michoacán
+2006,Tuberculosis,20100,Morelos
+2006,Tuberculosis,12283,Nayarit
+2006,Tuberculosis,82543,Nuevo León
+2006,Tuberculosis,2048,Oaxaca
+2006,Tuberculosis,30416,Puebla
+2006,Tuberculosis,32416,Querétaro
+2006,Tuberculosis,13184,Quintana Roo
+2006,Tuberculosis,42062,San Luis Potosí
+2006,Tuberculosis,24492,Sinaloa
+2006,Tuberculosis,27540,Sonora
+2006,Tuberculosis,11007,Tabasco
+2006,Tuberculosis,18835,Tamaulipas
+2006,Tuberculosis,5422,Tlaxcala
+2006,Tuberculosis,158146,Veracruz
+2006,Tuberculosis,10974,Yucatán
+2006,Tuberculosis,2903,Zacatecas
+2007,Tuberculosis,5831,Aguascalientes
+2007,Tuberculosis,68848,Baja California
+2007,Tuberculosis,14031,Baja California Sur
+2007,Tuberculosis,3814,Campeche
+2007,Tuberculosis,51025,Coahuila
+2007,Tuberculosis,3375,Colima
+2007,Tuberculosis,19330,Chiapas
+2007,Tuberculosis,76575,Chihuahua
+2007,Tuberculosis,177044,Distrito Federal
+2007,Tuberculosis,99583,Durango
+2007,Tuberculosis,101122,Guanajuato
+2007,Tuberculosis,6137,Guerrero
+2007,Tuberculosis,21121,Hidalgo
+2007,Tuberculosis,115167,Jalisco
+2007,Tuberculosis,186979,México
+2007,Tuberculosis,12240,Michoacán
+2007,Tuberculosis,20527,Morelos
+2007,Tuberculosis,14856,Nayarit
+2007,Tuberculosis,48348,Nuevo León
+2007,Tuberculosis,1924,Oaxaca
+2007,Tuberculosis,16331,Puebla
+2007,Tuberculosis,9382,Querétaro
+2007,Tuberculosis,5110,Quintana Roo
+2007,Tuberculosis,40966,San Luis Potosí
+2007,Tuberculosis,18837,Sinaloa
+2007,Tuberculosis,22104,Sonora
+2007,Tuberculosis,18626,Tabasco
+2007,Tuberculosis,15135,Tamaulipas
+2007,Tuberculosis,3192,Tlaxcala
+2007,Tuberculosis,325088,Veracruz
+2007,Tuberculosis,3879,Yucatán
+2007,Tuberculosis,2103,Zacatecas
+2008,Tuberculosis,29612,Aguascalientes
+2008,Tuberculosis,51793,Baja California
+2008,Tuberculosis,11888,Baja California Sur
+2008,Tuberculosis,1441,Campeche
+2008,Tuberculosis,112979,Coahuila
+2008,Tuberculosis,8019,Colima
+2008,Tuberculosis,9318,Chiapas
+2008,Tuberculosis,58107,Chihuahua
+2008,Tuberculosis,199485,Distrito Federal
+2008,Tuberculosis,113279,Durango
+2008,Tuberculosis,42678,Guanajuato
+2008,Tuberculosis,8434,Guerrero
+2008,Tuberculosis,17463,Hidalgo
+2008,Tuberculosis,180844,Jalisco
+2008,Tuberculosis,122588,México
+2008,Tuberculosis,25947,Michoacán
+2008,Tuberculosis,7236,Morelos
+2008,Tuberculosis,6813,Nayarit
+2008,Tuberculosis,88458,Nuevo León
+2008,Tuberculosis,5100,Oaxaca
+2008,Tuberculosis,34156,Puebla
+2008,Tuberculosis,11039,Querétaro
+2008,Tuberculosis,7208,Quintana Roo
+2008,Tuberculosis,52779,San Luis Potosí
+2008,Tuberculosis,22243,Sinaloa
+2008,Tuberculosis,38364,Sonora
+2008,Tuberculosis,11271,Tabasco
+2008,Tuberculosis,15478,Tamaulipas
+2008,Tuberculosis,874,Tlaxcala
+2008,Tuberculosis,326807,Veracruz
+2008,Tuberculosis,6233,Yucatán
+2008,Tuberculosis,2999,Zacatecas
+2009,Tuberculosis,50467,Aguascalientes
+2009,Tuberculosis,24841,Baja California
+2009,Tuberculosis,9773,Baja California Sur
+2009,Tuberculosis,1574,Campeche
+2009,Tuberculosis,44718,Coahuila
+2009,Tuberculosis,11016,Colima
+2009,Tuberculosis,5945,Chiapas
+2009,Tuberculosis,49006,Chihuahua
+2009,Tuberculosis,417953,Distrito Federal
+2009,Tuberculosis,32655,Durango
+2009,Tuberculosis,42660,Guanajuato
+2009,Tuberculosis,6514,Guerrero
+2009,Tuberculosis,13651,Hidalgo
+2009,Tuberculosis,217409,Jalisco
+2009,Tuberculosis,49251,México
+2009,Tuberculosis,20856,Michoacán
+2009,Tuberculosis,19077,Morelos
+2009,Tuberculosis,2691,Nayarit
+2009,Tuberculosis,87622,Nuevo León
+2009,Tuberculosis,6247,Oaxaca
+2009,Tuberculosis,21642,Puebla
+2009,Tuberculosis,17709,Querétaro
+2009,Tuberculosis,10401,Quintana Roo
+2009,Tuberculosis,34010,San Luis Potosí
+2009,Tuberculosis,35270,Sinaloa
+2009,Tuberculosis,37776,Sonora
+2009,Tuberculosis,13283,Tabasco
+2009,Tuberculosis,19427,Tamaulipas
+2009,Tuberculosis,932,Tlaxcala
+2009,Tuberculosis,150710,Veracruz
+2009,Tuberculosis,7026,Yucatán
+2009,Tuberculosis,3020,Zacatecas
+2010,Tuberculosis,45837,Aguascalientes
+2010,Tuberculosis,26513,Baja California
+2010,Tuberculosis,4449,Baja California Sur
+2010,Tuberculosis,3283,Campeche
+2010,Tuberculosis,40249,Coahuila
+2010,Tuberculosis,17278,Colima
+2010,Tuberculosis,2149,Chiapas
+2010,Tuberculosis,40562,Chihuahua
+2010,Tuberculosis,344832,Distrito Federal
+2010,Tuberculosis,20632,Durango
+2010,Tuberculosis,117930,Guanajuato
+2010,Tuberculosis,8706,Guerrero
+2010,Tuberculosis,13647,Hidalgo
+2010,Tuberculosis,189142,Jalisco
+2010,Tuberculosis,45009,México
+2010,Tuberculosis,16184,Michoacán
+2010,Tuberculosis,23940,Morelos
+2010,Tuberculosis,11556,Nayarit
+2010,Tuberculosis,70051,Nuevo León
+2010,Tuberculosis,4846,Oaxaca
+2010,Tuberculosis,25270,Puebla
+2010,Tuberculosis,35221,Querétaro
+2010,Tuberculosis,10088,Quintana Roo
+2010,Tuberculosis,18778,San Luis Potosí
+2010,Tuberculosis,52027,Sinaloa
+2010,Tuberculosis,28356,Sonora
+2010,Tuberculosis,8375,Tabasco
+2010,Tuberculosis,20723,Tamaulipas
+2010,Tuberculosis,3226,Tlaxcala
+2010,Tuberculosis,169007,Veracruz
+2010,Tuberculosis,12156,Yucatán
+2010,Tuberculosis,3472,Zacatecas
+2011,Tuberculosis,35206,Aguascalientes
+2011,Tuberculosis,33866,Baja California
+2011,Tuberculosis,3652,Baja California Sur
+2011,Tuberculosis,1502,Campeche
+2011,Tuberculosis,26786,Coahuila
+2011,Tuberculosis,10062,Colima
+2011,Tuberculosis,1381,Chiapas
+2011,Tuberculosis,56452,Chihuahua
+2011,Tuberculosis,102061,Distrito Federal
+2011,Tuberculosis,30508,Durango
+2011,Tuberculosis,44253,Guanajuato
+2011,Tuberculosis,9285,Guerrero
+2011,Tuberculosis,4189,Hidalgo
+2011,Tuberculosis,177457,Jalisco
+2011,Tuberculosis,45039,México
+2011,Tuberculosis,22481,Michoacán
+2011,Tuberculosis,19181,Morelos
+2011,Tuberculosis,20964,Nayarit
+2011,Tuberculosis,68060,Nuevo León
+2011,Tuberculosis,4564,Oaxaca
+2011,Tuberculosis,13338,Puebla
+2011,Tuberculosis,39070,Querétaro
+2011,Tuberculosis,6829,Quintana Roo
+2011,Tuberculosis,13692,San Luis Potosí
+2011,Tuberculosis,68091,Sinaloa
+2011,Tuberculosis,23003,Sonora
+2011,Tuberculosis,4538,Tabasco
+2011,Tuberculosis,10536,Tamaulipas
+2011,Tuberculosis,1987,Tlaxcala
+2011,Tuberculosis,126365,Veracruz
+2011,Tuberculosis,3714,Yucatán
+2011,Tuberculosis,4022,Zacatecas
+2012,Tuberculosis,6258,Aguascalientes
+2012,Tuberculosis,28976,Baja California
+2012,Tuberculosis,3163,Baja California Sur
+2012,Tuberculosis,6329,Campeche
+2012,Tuberculosis,18778,Coahuila
+2012,Tuberculosis,3522,Colima
+2012,Tuberculosis,5930,Chiapas
+2012,Tuberculosis,52621,Chihuahua
+2012,Tuberculosis,104207,Distrito Federal
+2012,Tuberculosis,15112,Durango
+2012,Tuberculosis,27895,Guanajuato
+2012,Tuberculosis,7992,Guerrero
+2012,Tuberculosis,2638,Hidalgo
+2012,Tuberculosis,166430,Jalisco
+2012,Tuberculosis,49989,México
+2012,Tuberculosis,24107,Michoacán
+2012,Tuberculosis,11314,Morelos
+2012,Tuberculosis,16733,Nayarit
+2012,Tuberculosis,68077,Nuevo León
+2012,Tuberculosis,770,Oaxaca
+2012,Tuberculosis,3916,Puebla
+2012,Tuberculosis,5707,Querétaro
+2012,Tuberculosis,7870,Quintana Roo
+2012,Tuberculosis,7227,San Luis Potosí
+2012,Tuberculosis,57474,Sinaloa
+2012,Tuberculosis,5376,Sonora
+2012,Tuberculosis,4037,Tabasco
+2012,Tuberculosis,11034,Tamaulipas
+2012,Tuberculosis,1032,Tlaxcala
+2012,Tuberculosis,130049,Veracruz
+2012,Tuberculosis,1868,Yucatán
+2012,Tuberculosis,1217,Zacatecas
+2013,Tuberculosis,1732,Aguascalientes
+2013,Tuberculosis,8794,Baja California
+2013,Tuberculosis,4078,Baja California Sur
+2013,Tuberculosis,1789,Campeche
+2013,Tuberculosis,11206,Coahuila
+2013,Tuberculosis,2617,Colima
+2013,Tuberculosis,3669,Chiapas
+2013,Tuberculosis,43226,Chihuahua
+2013,Tuberculosis,133164,Distrito Federal
+2013,Tuberculosis,11915,Durango
+2013,Tuberculosis,21184,Guanajuato
+2013,Tuberculosis,12977,Guerrero
+2013,Tuberculosis,4405,Hidalgo
+2013,Tuberculosis,114511,Jalisco
+2013,Tuberculosis,41529,México
+2013,Tuberculosis,33180,Michoacán
+2013,Tuberculosis,4684,Morelos
+2013,Tuberculosis,2270,Nayarit
+2013,Tuberculosis,72207,Nuevo León
+2013,Tuberculosis,396,Oaxaca
+2013,Tuberculosis,3885,Puebla
+2013,Tuberculosis,2261,Querétaro
+2013,Tuberculosis,1755,Quintana Roo
+2013,Tuberculosis,11340,San Luis Potosí
+2013,Tuberculosis,42496,Sinaloa
+2013,Tuberculosis,4954,Sonora
+2013,Tuberculosis,3587,Tabasco
+2013,Tuberculosis,9266,Tamaulipas
+2013,Tuberculosis,665,Tlaxcala
+2013,Tuberculosis,129092,Veracruz
+2013,Tuberculosis,2571,Yucatán
+2013,Tuberculosis,841,Zacatecas
+2014,Tuberculosis,1865,Aguascalientes
+2014,Tuberculosis,6801,Baja California
+2014,Tuberculosis,3588,Baja California Sur
+2014,Tuberculosis,301,Campeche
+2014,Tuberculosis,8535,Coahuila
+2014,Tuberculosis,1366,Colima
+2014,Tuberculosis,3245,Chiapas
+2014,Tuberculosis,22612,Chihuahua
+2014,Tuberculosis,107003,Distrito Federal
+2014,Tuberculosis,5971,Durango
+2014,Tuberculosis,15484,Guanajuato
+2014,Tuberculosis,7418,Guerrero
+2014,Tuberculosis,4687,Hidalgo
+2014,Tuberculosis,95889,Jalisco
+2014,Tuberculosis,26499,México
+2014,Tuberculosis,38988,Michoacán
+2014,Tuberculosis,4275,Morelos
+2014,Tuberculosis,1663,Nayarit
+2014,Tuberculosis,81424,Nuevo León
+2014,Tuberculosis,195,Oaxaca
+2014,Tuberculosis,3170,Puebla
+2014,Tuberculosis,4699,Querétaro
+2014,Tuberculosis,1070,Quintana Roo
+2014,Tuberculosis,14479,San Luis Potosí
+2014,Tuberculosis,26193,Sinaloa
+2014,Tuberculosis,8315,Sonora
+2014,Tuberculosis,2461,Tabasco
+2014,Tuberculosis,8181,Tamaulipas
+2014,Tuberculosis,545,Tlaxcala
+2014,Tuberculosis,106678,Veracruz
+2014,Tuberculosis,3227,Yucatán
+2014,Tuberculosis,650,Zacatecas
+2015,Tuberculosis,1676,Aguascalientes
+2015,Tuberculosis,10334,Baja California
+2015,Tuberculosis,2883,Baja California Sur
+2015,Tuberculosis,408,Campeche
+2015,Tuberculosis,13483,Coahuila
+2015,Tuberculosis,2190,Colima
+2015,Tuberculosis,1383,Chiapas
+2015,Tuberculosis,13423,Chihuahua
+2015,Tuberculosis,115210,Distrito Federal
+2015,Tuberculosis,4916,Durango
+2015,Tuberculosis,15628,Guanajuato
+2015,Tuberculosis,5610,Guerrero
+2015,Tuberculosis,8328,Hidalgo
+2015,Tuberculosis,108130,Jalisco
+2015,Tuberculosis,26372,México
+2015,Tuberculosis,34177,Michoacán
+2015,Tuberculosis,1182,Morelos
+2015,Tuberculosis,1273,Nayarit
+2015,Tuberculosis,63523,Nuevo León
+2015,Tuberculosis,614,Oaxaca
+2015,Tuberculosis,3131,Puebla
+2015,Tuberculosis,7779,Querétaro
+2015,Tuberculosis,512,Quintana Roo
+2015,Tuberculosis,19608,San Luis Potosí
+2015,Tuberculosis,13774,Sinaloa
+2015,Tuberculosis,10094,Sonora
+2015,Tuberculosis,2118,Tabasco
+2015,Tuberculosis,8601,Tamaulipas
+2015,Tuberculosis,350,Tlaxcala
+2015,Tuberculosis,132073,Veracruz
+2015,Tuberculosis,759,Yucatán
+2015,Tuberculosis,441,Zacatecas
+2016,Tuberculosis,2547,Aguascalientes
+2016,Tuberculosis,10607,Baja California
+2016,Tuberculosis,2249,Baja California Sur
+2016,Tuberculosis,5807,Campeche
+2016,Tuberculosis,15454,Coahuila
+2016,Tuberculosis,2360,Colima
+2016,Tuberculosis,1056,Chiapas
+2016,Tuberculosis,12402,Chihuahua
+2016,Tuberculosis,103204,Distrito Federal
+2016,Tuberculosis,5546,Durango
+2016,Tuberculosis,16356,Guanajuato
+2016,Tuberculosis,6724,Guerrero
+2016,Tuberculosis,8947,Hidalgo
+2016,Tuberculosis,138630,Jalisco
+2016,Tuberculosis,27518,México
+2016,Tuberculosis,27046,Michoacán
+2016,Tuberculosis,2155,Morelos
+2016,Tuberculosis,1527,Nayarit
+2016,Tuberculosis,60268,Nuevo León
+2016,Tuberculosis,4863,Oaxaca
+2016,Tuberculosis,3894,Puebla
+2016,Tuberculosis,3824,Querétaro
+2016,Tuberculosis,6574,Quintana Roo
+2016,Tuberculosis,15279,San Luis Potosí
+2016,Tuberculosis,13898,Sinaloa
+2016,Tuberculosis,4041,Sonora
+2016,Tuberculosis,1271,Tabasco
+2016,Tuberculosis,8782,Tamaulipas
+2016,Tuberculosis,530,Tlaxcala
+2016,Tuberculosis,118540,Veracruz
+2016,Tuberculosis,2353,Yucatán
+2016,Tuberculosis,522,Zacatecas
+2017,Tuberculosis,3479,Aguascalientes
+2017,Tuberculosis,46316,Baja California
+2017,Tuberculosis,2666,Baja California Sur
+2017,Tuberculosis,3257,Campeche
+2017,Tuberculosis,14654,Coahuila
+2017,Tuberculosis,955,Colima
+2017,Tuberculosis,2915,Chiapas
+2017,Tuberculosis,50037,Chihuahua
+2017,Tuberculosis,104512,Distrito Federal
+2017,Tuberculosis,5462,Durango
+2017,Tuberculosis,17973,Guanajuato
+2017,Tuberculosis,8978,Guerrero
+2017,Tuberculosis,10734,Hidalgo
+2017,Tuberculosis,170588,Jalisco
+2017,Tuberculosis,59134,México
+2017,Tuberculosis,21352,Michoacán
+2017,Tuberculosis,1509,Morelos
+2017,Tuberculosis,7861,Nayarit
+2017,Tuberculosis,42874,Nuevo León
+2017,Tuberculosis,11044,Oaxaca
+2017,Tuberculosis,46898,Puebla
+2017,Tuberculosis,2740,Querétaro
+2017,Tuberculosis,77979,Quintana Roo
+2017,Tuberculosis,13946,San Luis Potosí
+2017,Tuberculosis,17064,Sinaloa
+2017,Tuberculosis,10358,Sonora
+2017,Tuberculosis,1469,Tabasco
+2017,Tuberculosis,21022,Tamaulipas
+2017,Tuberculosis,1032,Tlaxcala
+2017,Tuberculosis,91004,Veracruz
+2017,Tuberculosis,2490,Yucatán
+2017,Tuberculosis,601,Zacatecas
+2018,Tuberculosis,1741,Aguascalientes
+2018,Tuberculosis,32008,Baja California
+2018,Tuberculosis,4850,Baja California Sur
+2018,Tuberculosis,609,Campeche
+2018,Tuberculosis,14868,Coahuila
+2018,Tuberculosis,850,Colima
+2018,Tuberculosis,6722,Chiapas
+2018,Tuberculosis,88092,Chihuahua
+2018,Tuberculosis,103470,Distrito Federal
+2018,Tuberculosis,4883,Durango
+2018,Tuberculosis,19837,Guanajuato
+2018,Tuberculosis,6093,Guerrero
+2018,Tuberculosis,9831,Hidalgo
+2018,Tuberculosis,175719,Jalisco
+2018,Tuberculosis,69841,México
+2018,Tuberculosis,12410,Michoacán
+2018,Tuberculosis,1036,Morelos
+2018,Tuberculosis,6784,Nayarit
+2018,Tuberculosis,85966,Nuevo León
+2018,Tuberculosis,11680,Oaxaca
+2018,Tuberculosis,74244,Puebla
+2018,Tuberculosis,1758,Querétaro
+2018,Tuberculosis,30543,Quintana Roo
+2018,Tuberculosis,15913,San Luis Potosí
+2018,Tuberculosis,13404,Sinaloa
+2018,Tuberculosis,12631,Sonora
+2018,Tuberculosis,2434,Tabasco
+2018,Tuberculosis,19648,Tamaulipas
+2018,Tuberculosis,623,Tlaxcala
+2018,Tuberculosis,92732,Veracruz
+2018,Tuberculosis,4588,Yucatán
+2018,Tuberculosis,494,Zacatecas
+2019,Tuberculosis,3096,Aguascalientes
+2019,Tuberculosis,41998,Baja California
+2019,Tuberculosis,5679,Baja California Sur
+2019,Tuberculosis,575,Campeche
+2019,Tuberculosis,14892,Coahuila
+2019,Tuberculosis,1267,Colima
+2019,Tuberculosis,11345,Chiapas
+2019,Tuberculosis,88212,Chihuahua
+2019,Tuberculosis,84947,Distrito Federal
+2019,Tuberculosis,4254,Durango
+2019,Tuberculosis,12403,Guanajuato
+2019,Tuberculosis,6664,Guerrero
+2019,Tuberculosis,12263,Hidalgo
+2019,Tuberculosis,121710,Jalisco
+2019,Tuberculosis,80267,México
+2019,Tuberculosis,9159,Michoacán
+2019,Tuberculosis,658,Morelos
+2019,Tuberculosis,6616,Nayarit
+2019,Tuberculosis,107252,Nuevo León
+2019,Tuberculosis,9465,Oaxaca
+2019,Tuberculosis,31803,Puebla
+2019,Tuberculosis,5125,Querétaro
+2019,Tuberculosis,20257,Quintana Roo
+2019,Tuberculosis,22756,San Luis Potosí
+2019,Tuberculosis,11893,Sinaloa
+2019,Tuberculosis,5978,Sonora
+2019,Tuberculosis,2476,Tabasco
+2019,Tuberculosis,23205,Tamaulipas
+2019,Tuberculosis,478,Tlaxcala
+2019,Tuberculosis,90482,Veracruz
+2019,Tuberculosis,3323,Yucatán
+2019,Tuberculosis,750,Zacatecas
+2020,Tuberculosis,1733,Aguascalientes
+2020,Tuberculosis,17618,Baja California
+2020,Tuberculosis,2485,Baja California Sur
+2020,Tuberculosis,170,Campeche
+2020,Tuberculosis,5366,Coahuila
+2020,Tuberculosis,896,Colima
+2020,Tuberculosis,6009,Chiapas
+2020,Tuberculosis,38545,Chihuahua
+2020,Tuberculosis,52420,Distrito Federal
+2020,Tuberculosis,1954,Durango
+2020,Tuberculosis,7080,Guanajuato
+2020,Tuberculosis,2239,Guerrero
+2020,Tuberculosis,7225,Hidalgo
+2020,Tuberculosis,57183,Jalisco
+2020,Tuberculosis,60539,México
+2020,Tuberculosis,5539,Michoacán
+2020,Tuberculosis,455,Morelos
+2020,Tuberculosis,2177,Nayarit
+2020,Tuberculosis,72886,Nuevo León
+2020,Tuberculosis,1631,Oaxaca
+2020,Tuberculosis,8124,Puebla
+2020,Tuberculosis,3824,Querétaro
+2020,Tuberculosis,8826,Quintana Roo
+2020,Tuberculosis,11748,San Luis Potosí
+2020,Tuberculosis,3470,Sinaloa
+2020,Tuberculosis,3372,Sonora
+2020,Tuberculosis,1134,Tabasco
+2020,Tuberculosis,9043,Tamaulipas
+2020,Tuberculosis,710,Tlaxcala
+2020,Tuberculosis,29220,Veracruz
+2020,Tuberculosis,2359,Yucatán
+2020,Tuberculosis,352,Zacatecas
+2021,Tuberculosis,662,Aguascalientes
+2021,Tuberculosis,19279,Baja California
+2021,Tuberculosis,3541,Baja California Sur
+2021,Tuberculosis,542,Campeche
+2021,Tuberculosis,14605,Coahuila
+2021,Tuberculosis,256,Colima
+2021,Tuberculosis,5303,Chiapas
+2021,Tuberculosis,50160,Chihuahua
+2021,Tuberculosis,73527,Distrito Federal
+2021,Tuberculosis,1247,Durango
+2021,Tuberculosis,11274,Guanajuato
+2021,Tuberculosis,891,Guerrero
+2021,Tuberculosis,13578,Hidalgo
+2021,Tuberculosis,45595,Jalisco
+2021,Tuberculosis,61456,México
+2021,Tuberculosis,8840,Michoacán
+2021,Tuberculosis,684,Morelos
+2021,Tuberculosis,3362,Nayarit
+2021,Tuberculosis,42544,Nuevo León
+2021,Tuberculosis,1477,Oaxaca
+2021,Tuberculosis,6357,Puebla
+2021,Tuberculosis,844,Querétaro
+2021,Tuberculosis,11186,Quintana Roo
+2021,Tuberculosis,17653,San Luis Potosí
+2021,Tuberculosis,1643,Sinaloa
+2021,Tuberculosis,3240,Sonora
+2021,Tuberculosis,704,Tabasco
+2021,Tuberculosis,14213,Tamaulipas
+2021,Tuberculosis,892,Tlaxcala
+2021,Tuberculosis,8978,Veracruz
+2021,Tuberculosis,4735,Yucatán
+2021,Tuberculosis,1171,Zacatecas
+2022,Tuberculosis,3018,Aguascalientes
+2022,Tuberculosis,19537,Baja California
+2022,Tuberculosis,3470,Baja California Sur
+2022,Tuberculosis,345,Campeche
+2022,Tuberculosis,13611,Coahuila
+2022,Tuberculosis,869,Colima
+2022,Tuberculosis,6629,Chiapas
+2022,Tuberculosis,79957,Chihuahua
+2022,Tuberculosis,16766,Distrito Federal
+2022,Tuberculosis,1196,Durango
+2022,Tuberculosis,12880,Guanajuato
+2022,Tuberculosis,68003,Guerrero
+2022,Tuberculosis,27829,Hidalgo
+2022,Tuberculosis,3058,Jalisco
+2022,Tuberculosis,16798,México
+2022,Tuberculosis,8682,Michoacán
+2022,Tuberculosis,48190,Morelos
+2022,Tuberculosis,3630,Nayarit
+2022,Tuberculosis,4704,Nuevo León
+2022,Tuberculosis,1950,Oaxaca
+2022,Tuberculosis,6709,Puebla
+2022,Tuberculosis,41784,Querétaro
+2022,Tuberculosis,2329,Quintana Roo
+2022,Tuberculosis,2194,San Luis Potosí
+2022,Tuberculosis,545,Sinaloa
+2022,Tuberculosis,17707,Sonora
+2022,Tuberculosis,298,Tabasco
+2022,Tuberculosis,8767,Tamaulipas
+2022,Tuberculosis,2037,Tlaxcala
+2022,Tuberculosis,16568,Veracruz
+2022,Tuberculosis,5209,Yucatán
+2022,Tuberculosis,113943,Zacatecas
